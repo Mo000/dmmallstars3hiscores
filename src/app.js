@@ -22,8 +22,16 @@ setupHeaderClickHandlers();
 async function loadPlayers() {
   const response = await fetch("/data/players.json");
   const data = await response.json();
-  state.players = data.players;
-  state.fetchedAt = data.fetchedAt;
+  
+  // Handle both old format (array) and new format (object with players property)
+  if (Array.isArray(data)) {
+    state.players = data;
+    state.fetchedAt = null;
+  } else {
+    state.players = data.players;
+    state.fetchedAt = data.fetchedAt;
+  }
+  
   render();
 }
 
@@ -124,7 +132,7 @@ function playerRow(player) {
     </td>
     <td>${player.team}</td>
     <td>${formatNumber(player.hiscore?.totalLevel)}</td>
-    <td>${formatCompact(player.hiscore?.totalXp)}</td>
+    <td>${formatNumber(player.hiscore?.totalXp)}</td>
     <td class="stat-col">${formatNumber(player.hiscore?.combatLevel ?? calcCombatLevel(skills))}</td>
     ${skillCells(skills)}
   `;

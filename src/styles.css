@@ -28,6 +28,8 @@ body {
     linear-gradient(180deg, rgba(255, 152, 31, 0.05), transparent 260px),
     radial-gradient(circle at top right, rgba(255, 184, 63, 0.08), transparent 320px),
     var(--bg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: var(--text);
   font-size: 18px;
 }
