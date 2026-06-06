@@ -1,0 +1,5 @@
+name = "dmm3hiscores"
+compatibility_date = "2026-06-06"
+
+[pages]
+build_output_dir = "."
