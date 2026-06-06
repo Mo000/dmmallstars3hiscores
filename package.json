@@ -7,7 +7,8 @@
     "dev": "node scripts/local-server.mjs",
     "pages:dev": "node scripts/dev.mjs",
     "serve": "npx serve .",
-    "check": "node scripts/check-data.mjs"
+    "check": "node scripts/check-data.mjs",
+    "build": "echo 'Build complete'"
   },
   "devDependencies": {
     "wrangler": "^4.0.0"
