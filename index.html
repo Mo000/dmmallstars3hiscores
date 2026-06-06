@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Unofficial Deadman Allstars Season 3 hiscores tracker."
+    />
+    <title>DMM Allstars S3 Hiscores</title>
+    <link rel="stylesheet" href="/src/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar" aria-label="Overview">
+        <div>
+          <h1>DMM All Stars 3 Hiscores</h1>
+        </div>
+      </section>
+
+      <section class="team-strip" id="team-strip" aria-label="Team summaries"></section>
+
+      <section class="table-wrap" aria-label="Player hiscores">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col" data-sort="player">Player <span class="sort-indicator"></span></th>
+              <th scope="col" data-sort="team">Team <span class="sort-indicator"></span></th>
+              <th scope="col" data-sort="total">Total <span class="sort-indicator"></span></th>
+              <th scope="col" data-sort="xp">XP <span class="sort-indicator"></span></th>
+              <th scope="col" class="stat-col" data-sort="combat"><img class="skill-icon" src="/icons/combat.png" alt="Combat" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="hitpoints"><img class="skill-icon" src="/icons/hitpoints.png" alt="Hitpoints" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="attack"><img class="skill-icon" src="/icons/attack.png" alt="Attack" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="strength"><img class="skill-icon" src="/icons/strength.png" alt="Strength" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="defence"><img class="skill-icon" src="/icons/defence.png" alt="Defence" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="magic"><img class="skill-icon" src="/icons/magic.png" alt="Magic" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="ranged"><img class="skill-icon" src="/icons/ranged.png" alt="Ranged" /> <span class="sort-indicator"></span></th>
+              <th scope="col" class="skill-col" data-sort="prayer"><img class="skill-icon" src="/icons/prayer.png" alt="Prayer" /> <span class="sort-indicator"></span></th>
+            </tr>
+          </thead>
+          <tbody id="players-body"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

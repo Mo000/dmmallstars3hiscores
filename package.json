@@ -1,0 +1,15 @@
+{
+  "name": "dmm3hiscores",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/local-server.mjs",
+    "pages:dev": "node scripts/dev.mjs",
+    "serve": "npx serve .",
+    "check": "node scripts/check-data.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

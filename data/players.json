@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ow-odablock",
+    "displayName": "Odablock",
+    "accountName": "OW Odablock",
+    "team": "Odablock Warriors",
+    "teamCode": "OW",
+    "colour": "Red",
+    "accent": "#e43f3f",
+    "captain": true
+  },
+  {
+    "id": "ow-dubiedobies",
+    "displayName": "DubieDobies",
+    "accountName": "OW Dubiedobs",
+    "team": "Odablock Warriors",
+    "teamCode": "OW",
+    "colour": "Red",
+    "accent": "#e43f3f",
+    "captain": false
+  },
+  {
+    "id": "ow-gnomonkey",
+    "displayName": "Gnomonkey",
+    "accountName": "OW Gnomonkey",
+    "team": "Odablock Warriors",
+    "teamCode": "OW",
+    "colour": "Red",
+    "accent": "#e43f3f",
+    "captain": false
+  },
+  {
+    "id": "ow-raikesy",
+    "displayName": "Raikesy",
+    "accountName": "OW Raikesy",
+    "team": "Odablock Warriors",
+    "teamCode": "OW",
+    "colour": "Red",
+    "accent": "#e43f3f",
+    "captain": false
+  },
+  {
+    "id": "ow-evscape",
+    "displayName": "Evscape",
+    "accountName": "OW Evscape",
+    "team": "Odablock Warriors",
+    "teamCode": "OW",
+    "colour": "Red",
+    "accent": "#e43f3f",
+    "captain": false
+  },
+  {
+    "id": "ff-framed",
+    "displayName": "Framed",
+    "accountName": "FF Framed",
+    "team": "Framed Friends",
+    "teamCode": "FF",
+    "colour": "Pink",
+    "accent": "#ff66a8",
+    "captain": true
+  },
+  {
+    "id": "ff-lake",
+    "displayName": "Lake",
+    "accountName": "FF Lake",
+    "team": "Framed Friends",
+    "teamCode": "FF",
+    "colour": "Pink",
+    "accent": "#ff66a8",
+    "captain": false
+  },
+  {
+    "id": "ff-pip",
+    "displayName": "Pip",
+    "accountName": "FF Pip",
+    "team": "Framed Friends",
+    "teamCode": "FF",
+    "colour": "Pink",
+    "accent": "#ff66a8",
+    "captain": false
+  },
+  {
+    "id": "ff-synq",
+    "displayName": "Synq",
+    "accountName": "FF Synq",
+    "team": "Framed Friends",
+    "teamCode": "FF",
+    "colour": "Pink",
+    "accent": "#ff66a8",
+    "captain": false
+  },
+  {
+    "id": "ff-alfie",
+    "displayName": "Alfie",
+    "accountName": "FF Alfie",
+    "team": "Framed Friends",
+    "teamCode": "FF",
+    "colour": "Pink",
+    "accent": "#ff66a8",
+    "captain": false
+  },
+  {
+    "id": "ww-westham",
+    "displayName": "Westham",
+    "accountName": "WW Westham",
+    "team": "Westham Weasels",
+    "teamCode": "WW",
+    "colour": "Yellow",
+    "accent": "#f5c542",
+    "captain": true
+  },
+  {
+    "id": "ww-greg",
+    "displayName": "Greg",
+    "accountName": "WW Greg",
+    "team": "Westham Weasels",
+    "teamCode": "WW",
+    "colour": "Yellow",
+    "accent": "#f5c542",
+    "captain": false
+  },
+  {
+    "id": "ww-mika",
+    "displayName": "Mika",
+    "accountName": "WW Mika",
+    "team": "Westham Weasels",
+    "teamCode": "WW",
+    "colour": "Yellow",
+    "accent": "#f5c542",
+    "captain": false
+  },
+  {
+    "id": "ww-eliop14",
+    "displayName": "Eliop14",
+    "accountName": "WW Eliop14",
+    "team": "Westham Weasels",
+    "teamCode": "WW",
+    "colour": "Yellow",
+    "accent": "#f5c542",
+    "captain": false
+  },
+  {
+    "id": "ww-faux",
+    "displayName": "Faux",
+    "accountName": "WW Faux",
+    "team": "Westham Weasels",
+    "teamCode": "WW",
+    "colour": "Yellow",
+    "accent": "#f5c542",
+    "captain": false
+  },
+  {
+    "id": "dn-dino",
+    "displayName": "Dino",
+    "accountName": "DN Dino",
+    "team": "Dino Nuggets",
+    "teamCode": "DN",
+    "colour": "Green",
+    "accent": "#3fbf75",
+    "captain": true
+  },
+  {
+    "id": "dn-b0aty",
+    "displayName": "B0aty",
+    "accountName": "DN B0aty",
+    "team": "Dino Nuggets",
+    "teamCode": "DN",
+    "colour": "Green",
+    "accent": "#3fbf75",
+    "captain": false
+  },
+  {
+    "id": "dn-61m",
+    "displayName": "61M",
+    "accountName": "DN 61M",
+    "team": "Dino Nuggets",
+    "teamCode": "DN",
+    "colour": "Green",
+    "accent": "#3fbf75",
+    "captain": false
+  },
+  {
+    "id": "dn-sick-nerd",
+    "displayName": "Sick Nerd",
+    "accountName": "DN Sick Nerd",
+    "team": "Dino Nuggets",
+    "teamCode": "DN",
+    "colour": "Green",
+    "accent": "#3fbf75",
+    "captain": false
+  },
+  {
+    "id": "dn-mmorpg",
+    "displayName": "MMORPG",
+    "accountName": "DN MMORPG",
+    "team": "Dino Nuggets",
+    "teamCode": "DN",
+    "colour": "Green",
+    "accent": "#3fbf75",
+    "captain": false
+  },
+  {
+    "id": "rr-rhys",
+    "displayName": "Rhys",
+    "accountName": "RR Rhys",
+    "team": "Rhys Rhinos",
+    "teamCode": "RR",
+    "colour": "Blue",
+    "accent": "#3d8bfd",
+    "captain": true
+  },
+  {
+    "id": "rr-torvesta",
+    "displayName": "Torvesta",
+    "accountName": "RR Torvesta",
+    "team": "Rhys Rhinos",
+    "teamCode": "RR",
+    "colour": "Blue",
+    "accent": "#3d8bfd",
+    "captain": false
+  },
+  {
+    "id": "rr-muts",
+    "displayName": "Muts",
+    "accountName": "RR Muts",
+    "team": "Rhys Rhinos",
+    "teamCode": "RR",
+    "colour": "Blue",
+    "accent": "#3d8bfd",
+    "captain": false
+  },
+  {
+    "id": "rr-v-the-victim",
+    "displayName": "V the Victim",
+    "accountName": "RR Victim",
+    "team": "Rhys Rhinos",
+    "teamCode": "RR",
+    "colour": "Blue",
+    "accent": "#3d8bfd",
+    "captain": false
+  },
+  {
+    "id": "rr-c-engineer",
+    "displayName": "C Engineer",
+    "accountName": "RR CEngineer",
+    "team": "Rhys Rhinos",
+    "teamCode": "RR",
+    "colour": "Blue",
+    "accent": "#3d8bfd",
+    "captain": false
+  },
+  {
+    "id": "pr-purpp",
+    "displayName": "Purpp",
+    "accountName": "PR Purpp",
+    "team": "Purpp Rebels",
+    "teamCode": "PR",
+    "colour": "Purple",
+    "accent": "#a66cff",
+    "captain": true
+  },
+  {
+    "id": "pr-skiddler",
+    "displayName": "Skiddler",
+    "accountName": "PR Skiddler",
+    "team": "Purpp Rebels",
+    "teamCode": "PR",
+    "colour": "Purple",
+    "accent": "#a66cff",
+    "captain": false
+  },
+  {
+    "id": "pr-skill-specs",
+    "displayName": "Skill Specs",
+    "accountName": "PRSkillSpecs",
+    "team": "Purpp Rebels",
+    "teamCode": "PR",
+    "colour": "Purple",
+    "accent": "#a66cff",
+    "captain": false
+  },
+  {
+    "id": "pr-coxie",
+    "displayName": "Coxie",
+    "accountName": "PR Coxie",
+    "team": "Purpp Rebels",
+    "teamCode": "PR",
+    "colour": "Purple",
+    "accent": "#a66cff",
+    "captain": false
+  },
+  {
+    "id": "pr-mr-mammal",
+    "displayName": "Mr Mammal",
+    "accountName": "PR Mr Mammal",
+    "team": "Purpp Rebels",
+    "teamCode": "PR",
+    "colour": "Purple",
+    "accent": "#a66cff",
+    "captain": false
+  }
+]

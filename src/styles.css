@@ -1,0 +1,267 @@
+@font-face {
+  font-family: "RuneScape UF";
+  src: url("/runescape_uf.ttf") format("truetype");
+  font-display: swap;
+}
+
+:root {
+  color-scheme: dark;
+  --bg: #1a1510;
+  --panel: #2d2418;
+  --panel-soft: #3d3020;
+  --text: #ff981f;
+  --muted: #c4a66b;
+  --line: #5c4a32;
+  --gold: #ffb83f;
+  --danger: #ff0000;
+  font-family: "RuneScape UF";
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background:
+    linear-gradient(180deg, rgba(255, 152, 31, 0.05), transparent 260px),
+    radial-gradient(circle at top right, rgba(255, 184, 63, 0.08), transparent 320px),
+    var(--bg);
+  color: var(--text);
+  font-size: 18px;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.shell {
+  width: min(1420px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 28px 0 48px;
+}
+
+.topbar {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 18px 0 22px;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 4rem);
+  line-height: 1;
+  letter-spacing: 0;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  color: var(--gold);
+}
+
+button,
+select,
+input {
+  border: 2px solid var(--line);
+  border-radius: 0;
+  background: var(--panel);
+  color: var(--text);
+}
+
+button {
+  cursor: pointer;
+  transition:
+    border-color 150ms ease,
+    transform 150ms ease,
+    background 150ms ease;
+}
+
+button:hover {
+  border-color: var(--gold);
+}
+
+.team-card:hover {
+  border-color: var(--accent);
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+button:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}
+
+input,
+select {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+}
+
+.team-strip {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(150px, 1fr));
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.team-card {
+  display: grid;
+  gap: 6px;
+  min-height: 104px;
+  padding: 14px;
+  text-align: left;
+  border: 2px solid var(--line);
+  border-top: 4px solid var(--accent);
+  background: var(--panel);
+}
+
+.team-card[data-active="true"] {
+  background: color-mix(in srgb, var(--accent) 16%, var(--panel));
+  border-color: var(--accent);
+}
+
+.team-card span {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.team-card strong {
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
+.team-card small {
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 2px solid var(--line);
+  border-radius: 0;
+  background: var(--panel);
+}
+
+table {
+  width: 100%;
+  min-width: 1180px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 13px 14px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+  vertical-align: middle;
+}
+
+th {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--panel-soft);
+  color: var(--text);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  border-bottom: 2px solid var(--line);
+}
+
+th[data-sort] {
+  cursor: pointer;
+  user-select: none;
+}
+
+.stat-col {
+  width: 48px;
+  padding-inline: 8px;
+  text-align: center;
+}
+
+.skill-col {
+  width: 52px;
+  padding-inline: 8px;
+  text-align: center;
+}
+
+th.skill-col {
+  text-transform: none;
+}
+
+.skill-icon {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: 23px;
+  max-height: 23px;
+  margin: 0 auto;
+  image-rendering: pixelated;
+}
+
+tbody tr {
+  cursor: pointer;
+  border-bottom: 1px solid var(--line);
+}
+
+tbody tr:hover {
+  background-color: var(--panel-soft);
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.player-cell {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 210px;
+}
+
+.player-cell strong,
+.player-cell small {
+  display: block;
+}
+
+.player-cell small {
+  margin-top: 2px;
+  color: var(--muted);
+}
+
+.team-dot {
+  width: 12px;
+  height: 36px;
+  flex: 0 0 auto;
+  border-radius: 3px;
+  background: var(--accent);
+}
+
+.empty {
+  height: 120px;
+  color: var(--muted);
+  text-align: center;
+}
+
+@media (max-width: 980px) {
+  .team-strip {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 620px) {
+  .shell {
+    width: min(100% - 20px, 1420px);
+    padding-top: 18px;
+  }
+
+  .team-strip {
+    grid-template-columns: 1fr;
+  }
+}
