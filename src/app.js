@@ -20,18 +20,24 @@ loadPlayers();
 setupHeaderClickHandlers();
 
 async function loadPlayers() {
-  const data = await fetchPlayers();
-  
-  // Handle both old format (array) and new format (object with players property)
-  if (Array.isArray(data)) {
-    state.players = data;
-    state.fetchedAt = null;
-  } else {
-    state.players = data.players;
-    state.fetchedAt = data.fetchedAt;
+  renderStatusRow("Loading latest hiscores...", "loading");
+
+  try {
+    const data = await fetchPlayers();
+    
+    // Handle both old format (array) and new format (object with players property)
+    if (Array.isArray(data)) {
+      state.players = data;
+      state.fetchedAt = null;
+    } else {
+      state.players = data.players;
+      state.fetchedAt = data.fetchedAt;
+    }
+    
+    render();
+  } catch {
+    renderStatusRow("Could not load hiscores. Refresh to try again.", "error");
   }
-  
-  render();
 }
 
 async function fetchPlayers() {
@@ -103,13 +109,21 @@ function renderRows() {
   const players = filteredPlayers();
 
   if (players.length === 0) {
-    const row = document.createElement("tr");
-    row.innerHTML = `<td colspan="12" class="empty">No player data loaded yet.</td>`;
-    elements.body.replaceChildren(row);
+    renderStatusRow("No player data loaded yet.", "empty");
     return;
   }
 
   elements.body.replaceChildren(...players.map(playerRow));
+}
+
+function renderStatusRow(message, variant) {
+  const row = document.createElement("tr");
+  const cell = document.createElement("td");
+  cell.className = `status-row ${variant}`;
+  cell.colSpan = 12;
+  cell.textContent = message;
+  row.append(cell);
+  elements.body.replaceChildren(row);
 }
 
 function filteredPlayers() {

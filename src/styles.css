@@ -245,10 +245,30 @@ tbody tr:last-child td {
   background: var(--accent);
 }
 
-.empty {
+.status-row {
   height: 120px;
   color: var(--muted);
   text-align: center;
+}
+
+.status-row.loading::after {
+  display: inline-block;
+  width: 1.5em;
+  margin-left: 4px;
+  overflow: hidden;
+  vertical-align: bottom;
+  animation: loading-dots 1200ms steps(4, end) infinite;
+  content: "...";
+}
+
+.status-row.error {
+  color: var(--danger);
+}
+
+@keyframes loading-dots {
+  from {
+    width: 0;
+  }
 }
 
 @media (max-width: 980px) {
