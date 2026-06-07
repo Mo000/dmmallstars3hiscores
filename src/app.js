@@ -20,7 +20,7 @@ loadPlayers();
 setupHeaderClickHandlers();
 
 async function loadPlayers() {
-  renderStatusRow("Loading latest hiscores...", "loading");
+  renderStatusRow("Loading latest hiscores", "loading");
 
   try {
     const data = await fetchPlayers();
