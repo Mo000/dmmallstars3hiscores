@@ -1,11 +1,16 @@
 import fs from "node:fs/promises";
 import { parseHiscoreLite } from "../src/hiscores.js";
 
-const roster = JSON.parse(
+const data = JSON.parse(
   await fs.readFile(new URL("../data/players.json", import.meta.url), "utf8")
 );
+const roster = Array.isArray(data) ? data : data.players;
 const required = ["id", "displayName", "accountName", "team", "teamCode", "colour", "accent"];
 const seen = new Set();
+
+if (!Array.isArray(roster)) {
+  throw new Error("players.json must be an array or an object with a players array.");
+}
 
 for (const player of roster) {
   for (const key of required) {
