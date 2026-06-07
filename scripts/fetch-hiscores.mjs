@@ -7,16 +7,22 @@ const ROSTER_FILE = "data/players.json";
 async function main() {
   console.log("Fetching hiscores data...");
   
-  const roster = JSON.parse(await readFile(ROSTER_FILE, "utf8"));
+  const data = JSON.parse(await readFile(ROSTER_FILE, "utf8"));
+  const roster = Array.isArray(data) ? data : data.players;
+
+  if (!Array.isArray(roster)) {
+    throw new Error(`${ROSTER_FILE} must be an array or an object with a players array.`);
+  }
+
   const players = await Promise.all(roster.map(fetchPlayer));
   
-  const data = {
+  const updatedData = {
     fetchedAt: new Date().toISOString(),
     source: HISCORES_URL,
     players
   };
   
-  await writeFile(ROSTER_FILE, JSON.stringify(data, null, 2), "utf8");
+  await writeFile(ROSTER_FILE, JSON.stringify(updatedData, null, 2), "utf8");
   console.log("Hiscores data updated successfully");
 }
 

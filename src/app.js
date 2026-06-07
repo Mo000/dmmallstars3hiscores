@@ -20,8 +20,7 @@ loadPlayers();
 setupHeaderClickHandlers();
 
 async function loadPlayers() {
-  const response = await fetch("/data/players.json");
-  const data = await response.json();
+  const data = await fetchPlayers();
   
   // Handle both old format (array) and new format (object with players property)
   if (Array.isArray(data)) {
@@ -33,6 +32,20 @@ async function loadPlayers() {
   }
   
   render();
+}
+
+async function fetchPlayers() {
+  try {
+    const response = await fetch("/api/players");
+    if (response.ok) {
+      return response.json();
+    }
+  } catch {
+    // Fall back to the committed snapshot when Pages Functions are unavailable.
+  }
+
+  const response = await fetch("/data/players.json");
+  return response.json();
 }
 
 function render() {

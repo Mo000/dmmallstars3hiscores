@@ -42,7 +42,13 @@ async function getPlayers() {
     return playersCache.data;
   }
 
-  const roster = JSON.parse(await readFile(join(root, "data/players.json"), "utf8"));
+  const rosterData = JSON.parse(await readFile(join(root, "data/players.json"), "utf8"));
+  const roster = Array.isArray(rosterData) ? rosterData : rosterData.players;
+
+  if (!Array.isArray(roster)) {
+    throw new Error("players.json must be an array or an object with a players array.");
+  }
+
   const players = await Promise.all(roster.map(fetchPlayer));
   const data = {
     fetchedAt: new Date().toISOString(),
@@ -135,4 +141,3 @@ function contentType(filePath) {
 
   return types[extname(filePath)] ?? "application/octet-stream";
 }
-

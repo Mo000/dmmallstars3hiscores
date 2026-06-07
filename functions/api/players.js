@@ -42,7 +42,14 @@ async function loadRoster(request, env) {
     throw new Error(`Could not load roster: ${response.status}`);
   }
 
-  return response.json();
+  const data = await response.json();
+  const roster = Array.isArray(data) ? data : data.players;
+
+  if (!Array.isArray(roster)) {
+    throw new Error("Roster must be an array or an object with a players array.");
+  }
+
+  return roster;
 }
 
 async function fetchPlayer(player) {
@@ -74,4 +81,3 @@ async function fetchPlayer(player) {
     };
   }
 }
-
