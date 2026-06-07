@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-07T17:41:52.674Z",
+  "fetchedAt": "2026-06-07T18:58:59.608Z",
   "source": "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws",
   "players": [
     {
@@ -12,16 +12,16 @@
       "accent": "#e43f3f",
       "captain": true,
       "hiscore": {
-        "overallRank": 77111,
-        "totalLevel": 1006,
-        "totalXp": 21944534,
-        "combatScore": 558,
+        "overallRank": 76678,
+        "totalLevel": 1013,
+        "totalXp": 22957767,
+        "combatScore": 560,
         "combatLevel": 97,
         "skills": {
           "overall": {
-            "rank": 77111,
-            "level": 1006,
-            "xp": 21944534
+            "rank": 76678,
+            "level": 1013,
+            "xp": 22957767
           },
           "attack": {
             "rank": 25528,
@@ -29,34 +29,34 @@
             "xp": 574131
           },
           "defence": {
-            "rank": 14102,
-            "level": 77,
-            "xp": 1542161
+            "rank": 13711,
+            "level": 78,
+            "xp": 1658129
           },
           "strength": {
-            "rank": 31617,
+            "rank": 31541,
             "level": 77,
-            "xp": 1490078
+            "xp": 1497761
           },
           "hitpoints": {
-            "rank": 16191,
-            "level": 89,
-            "xp": 5335297
+            "rank": 15392,
+            "level": 90,
+            "xp": 5543981
           },
           "ranged": {
-            "rank": 38857,
+            "rank": 38481,
             "level": 83,
-            "xp": 2864256
+            "xp": 2936316
           },
           "prayer": {
-            "rank": 24597,
+            "rank": 24598,
             "level": 71,
             "xp": 864577
           },
           "magic": {
-            "rank": 27451,
+            "rank": 26145,
             "level": 94,
-            "xp": 8209850
+            "xp": 8665915
           },
           "cooking": {
             "rank": -1,
@@ -74,17 +74,17 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 96013,
+            "rank": 96011,
             "level": 20,
             "xp": 4500
           },
           "firemaking": {
-            "rank": 80127,
+            "rank": 80125,
             "level": 50,
             "xp": 102000
           },
           "crafting": {
-            "rank": 50183,
+            "rank": 50181,
             "level": 50,
             "xp": 108003
           },
@@ -94,29 +94,29 @@
             "xp": 0
           },
           "mining": {
-            "rank": 100211,
+            "rank": 100209,
             "level": 14,
             "xp": 2115
           },
           "herblore": {
-            "rank": 67864,
+            "rank": 67863,
             "level": 31,
             "xp": 15007
           },
           "agility": {
-            "rank": 111130,
+            "rank": 111128,
             "level": 59,
             "xp": 266302
           },
           "thieving": {
-            "rank": 88674,
+            "rank": 88673,
             "level": 58,
             "xp": 230235
           },
           "slayer": {
-            "rank": 37424,
-            "level": 57,
-            "xp": 203632
+            "rank": 29296,
+            "level": 62,
+            "xp": 355597
           },
           "farming": {
             "rank": -1,
@@ -124,17 +124,17 @@
             "xp": 0
           },
           "runecraft": {
-            "rank": 38681,
+            "rank": 38680,
             "level": 31,
             "xp": 15000
           },
           "hunter": {
-            "rank": 21463,
+            "rank": 21380,
             "level": 51,
-            "xp": 112350
+            "xp": 113158
           },
           "construction": {
-            "rank": 68443,
+            "rank": 68441,
             "level": 21,
             "xp": 5040
           }
@@ -151,16 +151,16 @@
       "accent": "#e43f3f",
       "captain": false,
       "hiscore": {
-        "overallRank": 77018,
-        "totalLevel": 1008,
-        "totalXp": 8695512,
-        "combatScore": 481,
-        "combatLevel": 84,
+        "overallRank": 74582,
+        "totalLevel": 1047,
+        "totalXp": 9080261,
+        "combatScore": 486,
+        "combatLevel": 85,
         "skills": {
           "overall": {
-            "rank": 77018,
-            "level": 1008,
-            "xp": 8695512
+            "rank": 74582,
+            "level": 1047,
+            "xp": 9080261
           },
           "attack": {
             "rank": 42236,
@@ -168,42 +168,42 @@
             "xp": 276544
           },
           "defence": {
-            "rank": 30251,
-            "level": 65,
-            "xp": 457036
+            "rank": 29524,
+            "level": 66,
+            "xp": 500296
           },
           "strength": {
-            "rank": 51538,
+            "rank": 51508,
             "level": 62,
-            "xp": 344130
+            "xp": 345330
           },
           "hitpoints": {
-            "rank": 43271,
-            "level": 74,
-            "xp": 1172278
+            "rank": 42038,
+            "level": 75,
+            "xp": 1240054
           },
           "ranged": {
-            "rank": 65007,
-            "level": 70,
-            "xp": 801900
+            "rank": 64157,
+            "level": 71,
+            "xp": 831600
           },
           "prayer": {
-            "rank": 32683,
-            "level": 65,
-            "xp": 495120
+            "rank": 32331,
+            "level": 66,
+            "xp": 510127
           },
           "magic": {
-            "rank": 41624,
-            "level": 85,
-            "xp": 3499849
+            "rank": 40774,
+            "level": 86,
+            "xp": 3643205
           },
           "cooking": {
-            "rank": 84535,
+            "rank": 84533,
             "level": 41,
             "xp": 42855
           },
           "woodcutting": {
-            "rank": 87298,
+            "rank": 87297,
             "level": 43,
             "xp": 55575
           },
@@ -213,17 +213,17 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 79831,
+            "rank": 79830,
             "level": 50,
             "xp": 107625
           },
           "firemaking": {
-            "rank": 78824,
+            "rank": 78822,
             "level": 50,
             "xp": 102900
           },
           "crafting": {
-            "rank": 40395,
+            "rank": 40396,
             "level": 54,
             "xp": 161793
           },
@@ -238,24 +238,24 @@
             "xp": 75
           },
           "herblore": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
+            "rank": 66486,
+            "level": 33,
+            "xp": 19657
           },
           "agility": {
-            "rank": 110481,
-            "level": 60,
-            "xp": 287635
+            "rank": 110076,
+            "level": 61,
+            "xp": 302643
           },
           "thieving": {
-            "rank": 91315,
+            "rank": 91314,
             "level": 56,
             "xp": 185235
           },
           "slayer": {
-            "rank": 25096,
-            "level": 65,
-            "xp": 485557
+            "rank": 23282,
+            "level": 66,
+            "xp": 535342
           },
           "farming": {
             "rank": -1,
@@ -290,49 +290,49 @@
       "accent": "#e43f3f",
       "captain": false,
       "hiscore": {
-        "overallRank": 79178,
-        "totalLevel": 972,
-        "totalXp": 9959284,
-        "combatScore": 495,
+        "overallRank": 79060,
+        "totalLevel": 974,
+        "totalXp": 10052895,
+        "combatScore": 496,
         "combatLevel": 90,
         "skills": {
           "overall": {
-            "rank": 79178,
-            "level": 972,
-            "xp": 9959284
+            "rank": 79060,
+            "level": 974,
+            "xp": 10052895
           },
           "attack": {
-            "rank": 25479,
+            "rank": 25480,
             "level": 67,
             "xp": 579471
           },
           "defence": {
-            "rank": 15735,
+            "rank": 15736,
             "level": 75,
             "xp": 1270482
           },
           "strength": {
-            "rank": 36413,
+            "rank": 36412,
             "level": 73,
             "xp": 1033135
           },
           "hitpoints": {
-            "rank": 47340,
+            "rank": 47081,
             "level": 72,
-            "xp": 932103
+            "xp": 948006
           },
           "ranged": {
-            "rank": 54558,
-            "level": 76,
-            "xp": 1442493
+            "rank": 53896,
+            "level": 77,
+            "xp": 1490238
           },
           "prayer": {
-            "rank": 32254,
+            "rank": 32255,
             "level": 66,
             "xp": 513544
           },
           "magic": {
-            "rank": 76201,
+            "rank": 76199,
             "level": 66,
             "xp": 521149
           },
@@ -342,12 +342,12 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 96030,
+            "rank": 96029,
             "level": 36,
             "xp": 26625
           },
           "fletching": {
-            "rank": 92162,
+            "rank": 92161,
             "level": 22,
             "xp": 5655
           },
@@ -357,22 +357,22 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 78071,
+            "rank": 78069,
             "level": 50,
             "xp": 103800
           },
           "crafting": {
-            "rank": 42925,
+            "rank": 42682,
             "level": 53,
-            "xp": 145615
+            "xp": 147228
           },
           "smithing": {
-            "rank": 76289,
+            "rank": 76288,
             "level": 16,
             "xp": 3000
           },
           "mining": {
-            "rank": 44267,
+            "rank": 44266,
             "level": 46,
             "xp": 68940
           },
@@ -382,19 +382,19 @@
             "xp": 0
           },
           "agility": {
-            "rank": 105494,
+            "rank": 105492,
             "level": 66,
             "xp": 508071
           },
           "thieving": {
-            "rank": 83605,
+            "rank": 83604,
             "level": 61,
             "xp": 325062
           },
           "slayer": {
-            "rank": 68789,
-            "level": 37,
-            "xp": 30000
+            "rank": 65368,
+            "level": 38,
+            "xp": 30420
           },
           "farming": {
             "rank": -1,
@@ -407,12 +407,12 @@
             "xp": 0
           },
           "hunter": {
-            "rank": 2717,
+            "rank": 2669,
             "level": 82,
-            "xp": 2449989
+            "xp": 2477919
           },
           "construction": {
-            "rank": 71385,
+            "rank": 71383,
             "level": 2,
             "xp": 150
           }
@@ -429,56 +429,56 @@
       "accent": "#e43f3f",
       "captain": false,
       "hiscore": {
-        "overallRank": 79941,
-        "totalLevel": 959,
-        "totalXp": 11376417,
+        "overallRank": 76828,
+        "totalLevel": 1011,
+        "totalXp": 11631586,
         "combatScore": 517,
         "combatLevel": 91,
         "skills": {
           "overall": {
-            "rank": 79941,
-            "level": 959,
-            "xp": 11376417
+            "rank": 76828,
+            "level": 1011,
+            "xp": 11631586
           },
           "attack": {
-            "rank": 25455,
+            "rank": 25456,
             "level": 67,
             "xp": 583398
           },
           "defence": {
-            "rank": 15495,
+            "rank": 15496,
             "level": 75,
             "xp": 1302478
           },
           "strength": {
-            "rank": 39038,
+            "rank": 39036,
             "level": 71,
-            "xp": 826886
+            "xp": 826946
           },
           "hitpoints": {
             "rank": 38093,
             "level": 77,
-            "xp": 1538382
+            "xp": 1538402
           },
           "ranged": {
-            "rank": 53916,
+            "rank": 53915,
             "level": 77,
             "xp": 1488541
           },
           "prayer": {
-            "rank": 30050,
+            "rank": 30052,
             "level": 68,
             "xp": 662197
           },
           "magic": {
-            "rank": 48603,
+            "rank": 48039,
             "level": 82,
-            "xp": 2481918
+            "xp": 2526633
           },
           "cooking": {
-            "rank": 101889,
-            "level": 10,
-            "xp": 1350
+            "rank": 101075,
+            "level": 15,
+            "xp": 2520
           },
           "woodcutting": {
             "rank": -1,
@@ -496,24 +496,24 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 78823,
+            "rank": 78821,
             "level": 50,
             "xp": 102900
           },
           "crafting": {
-            "rank": 43980,
+            "rank": 43979,
             "level": 53,
             "xp": 139488
           },
           "smithing": {
-            "rank": 77486,
-            "level": 13,
-            "xp": 1875
+            "rank": 20727,
+            "level": 57,
+            "xp": 208275
           },
           "mining": {
-            "rank": 29401,
+            "rank": 29250,
             "level": 55,
-            "xp": 166890
+            "xp": 167152
           },
           "herblore": {
             "rank": -1,
@@ -521,24 +521,24 @@
             "xp": 0
           },
           "agility": {
-            "rank": 89178,
+            "rank": 89176,
             "level": 78,
-            "xp": 1707259
+            "xp": 1707349
           },
           "thieving": {
-            "rank": 88997,
+            "rank": 88996,
             "level": 58,
             "xp": 224985
           },
           "slayer": {
-            "rank": 52848,
+            "rank": 52847,
             "level": 48,
             "xp": 83250
           },
           "farming": {
-            "rank": 66826,
-            "level": 25,
-            "xp": 8670
+            "rank": 66358,
+            "level": 28,
+            "xp": 11122
           },
           "runecraft": {
             "rank": -1,
@@ -551,7 +551,7 @@
             "xp": 55830
           },
           "construction": {
-            "rank": 71674,
+            "rank": 71672,
             "level": 2,
             "xp": 120
           }
@@ -568,51 +568,51 @@
       "accent": "#e43f3f",
       "captain": false,
       "hiscore": {
-        "overallRank": 60957,
-        "totalLevel": 1219,
-        "totalXp": 14004070,
-        "combatScore": 513,
-        "combatLevel": 92,
+        "overallRank": 59725,
+        "totalLevel": 1231,
+        "totalXp": 15096086,
+        "combatScore": 519,
+        "combatLevel": 93,
         "skills": {
           "overall": {
-            "rank": 60957,
-            "level": 1219,
-            "xp": 14004070
+            "rank": 59725,
+            "level": 1231,
+            "xp": 15096086
           },
           "attack": {
-            "rank": 25461,
+            "rank": 25462,
             "level": 67,
             "xp": 582603
           },
           "defence": {
-            "rank": 15572,
+            "rank": 15573,
             "level": 75,
             "xp": 1291395
           },
           "strength": {
-            "rank": 34204,
-            "level": 75,
-            "xp": 1229775
+            "rank": 28669,
+            "level": 79,
+            "xp": 1936825
           },
           "hitpoints": {
-            "rank": 37314,
-            "level": 77,
-            "xp": 1612595
+            "rank": 34749,
+            "level": 79,
+            "xp": 1847651
           },
           "ranged": {
-            "rank": 63280,
+            "rank": 63282,
             "level": 71,
             "xp": 874659
           },
           "prayer": {
-            "rank": 33381,
+            "rank": 33382,
             "level": 65,
             "xp": 465079
           },
           "magic": {
-            "rank": 46247,
+            "rank": 46160,
             "level": 83,
-            "xp": 2722985
+            "xp": 2736283
           },
           "cooking": {
             "rank": -1,
@@ -625,24 +625,24 @@
             "xp": 1898100
           },
           "fletching": {
-            "rank": 44278,
+            "rank": 44277,
             "level": 66,
             "xp": 541963
           },
           "fishing": {
-            "rank": 82800,
+            "rank": 82799,
             "level": 47,
             "xp": 79800
           },
           "firemaking": {
-            "rank": 78332,
+            "rank": 78330,
             "level": 50,
             "xp": 103500
           },
           "crafting": {
-            "rank": 41294,
-            "level": 54,
-            "xp": 155643
+            "rank": 26335,
+            "level": 60,
+            "xp": 292255
           },
           "smithing": {
             "rank": -1,
@@ -650,7 +650,7 @@
             "xp": 0
           },
           "mining": {
-            "rank": 17542,
+            "rank": 17541,
             "level": 60,
             "xp": 286725
           },
@@ -660,17 +660,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 110767,
+            "rank": 110765,
             "level": 60,
             "xp": 277797
           },
           "thieving": {
-            "rank": 70181,
+            "rank": 70180,
             "level": 68,
             "xp": 664485
           },
           "slayer": {
-            "rank": 17035,
+            "rank": 17036,
             "level": 70,
             "xp": 806460
           },
@@ -690,7 +690,7 @@
             "xp": 90466
           },
           "construction": {
-            "rank": 45433,
+            "rank": 45432,
             "level": 39,
             "xp": 34950
           }
@@ -707,14 +707,14 @@
       "accent": "#ff66a8",
       "captain": true,
       "hiscore": {
-        "overallRank": 80747,
+        "overallRank": 80745,
         "totalLevel": 944,
         "totalXp": 19745276,
         "combatScore": 544,
         "combatLevel": 99,
         "skills": {
           "overall": {
-            "rank": 80747,
+            "rank": 80745,
             "level": 944,
             "xp": 19745276
           },
@@ -734,22 +734,22 @@
             "xp": 2463181
           },
           "hitpoints": {
-            "rank": 17123,
+            "rank": 17122,
             "level": 89,
             "xp": 4959354
           },
           "ranged": {
-            "rank": 77663,
+            "rank": 77664,
             "level": 62,
             "xp": 345600
           },
           "prayer": {
-            "rank": 28736,
+            "rank": 28738,
             "level": 70,
             "xp": 740097
           },
           "magic": {
-            "rank": 27740,
+            "rank": 27741,
             "level": 94,
             "xp": 8143279
           },
@@ -759,7 +759,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 83685,
+            "rank": 83684,
             "level": 46,
             "xp": 71437
           },
@@ -774,12 +774,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 79588,
+            "rank": 79586,
             "level": 50,
             "xp": 102300
           },
           "crafting": {
-            "rank": 52813,
+            "rank": 52811,
             "level": 49,
             "xp": 97743
           },
@@ -799,17 +799,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 111202,
+            "rank": 111200,
             "level": 59,
             "xp": 264187
           },
           "thieving": {
-            "rank": 91273,
+            "rank": 91271,
             "level": 56,
             "xp": 185715
           },
           "slayer": {
-            "rank": 48620,
+            "rank": 48619,
             "level": 50,
             "xp": 105885
           },
@@ -846,46 +846,46 @@
       "accent": "#ff66a8",
       "captain": false,
       "hiscore": {
-        "overallRank": 79212,
-        "totalLevel": 971,
-        "totalXp": 23676362,
-        "combatScore": 551,
-        "combatLevel": 102,
+        "overallRank": 78778,
+        "totalLevel": 978,
+        "totalXp": 25229708,
+        "combatScore": 555,
+        "combatLevel": 103,
         "skills": {
           "overall": {
-            "rank": 79212,
-            "level": 971,
-            "xp": 23676362
+            "rank": 78778,
+            "level": 978,
+            "xp": 25229708
           },
           "attack": {
-            "rank": 23024,
+            "rank": 20804,
             "level": 70,
-            "xp": 741430
+            "xp": 783850
           },
           "defence": {
-            "rank": 14367,
-            "level": 77,
-            "xp": 1481064
+            "rank": 12896,
+            "level": 80,
+            "xp": 1986084
           },
           "strength": {
-            "rank": 16418,
-            "level": 89,
-            "xp": 4959049
+            "rank": 15472,
+            "level": 90,
+            "xp": 5397109
           },
           "hitpoints": {
-            "rank": 14458,
+            "rank": 13857,
             "level": 91,
-            "xp": 5946176
+            "xp": 6274187
           },
           "ranged": {
-            "rank": 82710,
+            "rank": 82711,
             "level": 60,
             "xp": 274680
           },
           "prayer": {
-            "rank": 29277,
+            "rank": 28993,
             "level": 70,
-            "xp": 738027
+            "xp": 739002
           },
           "magic": {
             "rank": 27901,
@@ -898,7 +898,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 82351,
+            "rank": 82350,
             "level": 47,
             "xp": 79162
           },
@@ -913,12 +913,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 81213,
+            "rank": 81211,
             "level": 50,
             "xp": 101400
           },
           "crafting": {
-            "rank": 52618,
+            "rank": 52616,
             "level": 49,
             "xp": 99078
           },
@@ -938,19 +938,19 @@
             "xp": 0
           },
           "agility": {
-            "rank": 110795,
+            "rank": 110793,
             "level": 60,
             "xp": 276966
           },
           "thieving": {
-            "rank": 91241,
+            "rank": 91239,
             "level": 56,
             "xp": 186195
           },
           "slayer": {
-            "rank": 22890,
-            "level": 67,
-            "xp": 549255
+            "rank": 17360,
+            "level": 70,
+            "xp": 788115
           },
           "farming": {
             "rank": -1,
@@ -985,21 +985,21 @@
       "accent": "#ff66a8",
       "captain": false,
       "hiscore": {
-        "overallRank": 86496,
-        "totalLevel": 841,
-        "totalXp": 13214093,
-        "combatScore": 475,
-        "combatLevel": 90,
+        "overallRank": 82829,
+        "totalLevel": 907,
+        "totalXp": 20452060,
+        "combatScore": 526,
+        "combatLevel": 96,
         "skills": {
           "overall": {
-            "rank": 86496,
-            "level": 841,
-            "xp": 13214093
+            "rank": 82829,
+            "level": 907,
+            "xp": 20452060
           },
           "attack": {
-            "rank": 25486,
-            "level": 67,
-            "xp": 578993
+            "rank": 21702,
+            "level": 70,
+            "xp": 755933
           },
           "defence": {
             "rank": 15947,
@@ -1007,29 +1007,29 @@
             "xp": 1249150
           },
           "strength": {
-            "rank": 38249,
-            "level": 71,
-            "xp": 892736
+            "rank": 29591,
+            "level": 78,
+            "xp": 1787768
           },
           "hitpoints": {
-            "rank": 40408,
-            "level": 76,
-            "xp": 1349360
+            "rank": 23081,
+            "level": 85,
+            "xp": 3525109
           },
           "ranged": {
-            "rank": 95468,
-            "level": 44,
-            "xp": 61200
+            "rank": 82110,
+            "level": 60,
+            "xp": 284220
           },
           "prayer": {
-            "rank": 43124,
-            "level": 60,
-            "xp": 293160
+            "rank": 30908,
+            "level": 67,
+            "xp": 593535
           },
           "magic": {
-            "rank": 47131,
-            "level": 82,
-            "xp": 2625567
+            "rank": 33305,
+            "level": 91,
+            "xp": 5906001
           },
           "cooking": {
             "rank": -1,
@@ -1037,7 +1037,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 84949,
+            "rank": 84948,
             "level": 45,
             "xp": 65437
           },
@@ -1052,14 +1052,14 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 78070,
+            "rank": 78068,
             "level": 50,
             "xp": 103800
           },
           "crafting": {
-            "rank": 42576,
-            "level": 53,
-            "xp": 147843
+            "rank": 26378,
+            "level": 60,
+            "xp": 291618
           },
           "smithing": {
             "rank": -1,
@@ -1077,19 +1077,19 @@
             "xp": 0
           },
           "agility": {
-            "rank": 53362,
+            "rank": 53228,
             "level": 90,
-            "xp": 5631852
+            "xp": 5651889
           },
           "thieving": {
-            "rank": 91334,
+            "rank": 91286,
             "level": 56,
-            "xp": 184995
+            "xp": 185520
           },
           "slayer": {
-            "rank": 75754,
-            "level": 31,
-            "xp": 15000
+            "rank": 63522,
+            "level": 39,
+            "xp": 37080
           },
           "farming": {
             "rank": -1,
@@ -1124,36 +1124,36 @@
       "accent": "#ff66a8",
       "captain": false,
       "hiscore": {
-        "overallRank": 83413,
-        "totalLevel": 897,
-        "totalXp": 17864760,
-        "combatScore": 529,
-        "combatLevel": 96,
+        "overallRank": 82830,
+        "totalLevel": 907,
+        "totalXp": 19603368,
+        "combatScore": 539,
+        "combatLevel": 98,
         "skills": {
           "overall": {
-            "rank": 83413,
-            "level": 897,
-            "xp": 17864760
+            "rank": 82830,
+            "level": 907,
+            "xp": 19603368
           },
           "attack": {
-            "rank": 23655,
+            "rank": 23656,
             "level": 70,
             "xp": 739389
           },
           "defence": {
             "rank": 15585,
             "level": 75,
-            "xp": 1289874
+            "xp": 1289909
           },
           "strength": {
-            "rank": 32467,
-            "level": 76,
-            "xp": 1388772
+            "rank": 27182,
+            "level": 80,
+            "xp": 2061862
           },
           "hitpoints": {
-            "rank": 19083,
-            "level": 87,
-            "xp": 4378784
+            "rank": 17845,
+            "level": 88,
+            "xp": 4733249
           },
           "ranged": {
             "rank": 82625,
@@ -1161,14 +1161,14 @@
             "xp": 275400
           },
           "prayer": {
-            "rank": 31394,
-            "level": 67,
-            "xp": 560917
+            "rank": 24750,
+            "level": 71,
+            "xp": 855757
           },
           "magic": {
-            "rank": 26695,
-            "level": 94,
-            "xp": 8450457
+            "rank": 25352,
+            "level": 95,
+            "xp": 8866635
           },
           "cooking": {
             "rank": -1,
@@ -1176,7 +1176,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 85352,
+            "rank": 85351,
             "level": 45,
             "xp": 63750
           },
@@ -1191,17 +1191,17 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 80130,
+            "rank": 80128,
             "level": 50,
             "xp": 102000
           },
           "crafting": {
-            "rank": 50489,
+            "rank": 50487,
             "level": 50,
             "xp": 106743
           },
           "smithing": {
-            "rank": 67272,
+            "rank": 67271,
             "level": 37,
             "xp": 28329
           },
@@ -1216,17 +1216,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 111163,
+            "rank": 111161,
             "level": 59,
             "xp": 265350
           },
           "thieving": {
-            "rank": 91333,
+            "rank": 91332,
             "level": 56,
             "xp": 184995
           },
           "slayer": {
-            "rank": 75753,
+            "rank": 75752,
             "level": 31,
             "xp": 15000
           },
@@ -1263,16 +1263,16 @@
       "accent": "#ff66a8",
       "captain": false,
       "hiscore": {
-        "overallRank": 58744,
-        "totalLevel": 1240,
-        "totalXp": 20476221,
-        "combatScore": 531,
-        "combatLevel": 96,
+        "overallRank": 57309,
+        "totalLevel": 1253,
+        "totalXp": 23107950,
+        "combatScore": 544,
+        "combatLevel": 100,
         "skills": {
           "overall": {
-            "rank": 58744,
-            "level": 1240,
-            "xp": 20476221
+            "rank": 57309,
+            "level": 1253,
+            "xp": 23107950
           },
           "attack": {
             "rank": 19784,
@@ -1280,19 +1280,19 @@
             "xp": 833526
           },
           "defence": {
-            "rank": 15697,
+            "rank": 15698,
             "level": 75,
             "xp": 1275489
           },
           "strength": {
-            "rank": 31175,
-            "level": 77,
-            "xp": 1554331
+            "rank": 21051,
+            "level": 85,
+            "xp": 3295486
           },
           "hitpoints": {
-            "rank": 19615,
-            "level": 87,
-            "xp": 4229882
+            "rank": 17656,
+            "level": 88,
+            "xp": 4809131
           },
           "ranged": {
             "rank": 82624,
@@ -1300,22 +1300,22 @@
             "xp": 275400
           },
           "prayer": {
-            "rank": 30889,
-            "level": 67,
-            "xp": 594945
+            "rank": 24561,
+            "level": 71,
+            "xp": 867105
           },
           "magic": {
-            "rank": 26891,
+            "rank": 26792,
             "level": 94,
-            "xp": 8381944
+            "xp": 8421109
           },
           "cooking": {
-            "rank": 81991,
+            "rank": 81989,
             "level": 44,
             "xp": 57375
           },
           "woodcutting": {
-            "rank": 84164,
+            "rank": 84163,
             "level": 46,
             "xp": 69187
           },
@@ -1325,12 +1325,12 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 99632,
+            "rank": 99630,
             "level": 4,
             "xp": 300
           },
           "firemaking": {
-            "rank": 81212,
+            "rank": 81210,
             "level": 50,
             "xp": 101400
           },
@@ -1340,27 +1340,27 @@
             "xp": 153168
           },
           "smithing": {
-            "rank": 8173,
+            "rank": 8172,
             "level": 69,
             "xp": 699169
           },
           "mining": {
-            "rank": 42641,
+            "rank": 42640,
             "level": 47,
             "xp": 76762
           },
           "herblore": {
-            "rank": 67844,
+            "rank": 67843,
             "level": 31,
             "xp": 15064
           },
           "agility": {
-            "rank": 109280,
+            "rank": 109278,
             "level": 62,
             "xp": 334072
           },
           "thieving": {
-            "rank": 90334,
+            "rank": 90333,
             "level": 56,
             "xp": 200370
           },
@@ -1370,7 +1370,7 @@
             "xp": 274587
           },
           "farming": {
-            "rank": 53358,
+            "rank": 53357,
             "level": 58,
             "xp": 236685
           },
@@ -1402,16 +1402,16 @@
       "accent": "#f5c542",
       "captain": true,
       "hiscore": {
-        "overallRank": 87474,
-        "totalLevel": 823,
-        "totalXp": 16552086,
+        "overallRank": 87312,
+        "totalLevel": 826,
+        "totalXp": 16669378,
         "combatScore": 487,
         "combatLevel": 93,
         "skills": {
           "overall": {
-            "rank": 87474,
-            "level": 823,
-            "xp": 16552086
+            "rank": 87312,
+            "level": 826,
+            "xp": 16669378
           },
           "attack": {
             "rank": 42780,
@@ -1424,29 +1424,29 @@
             "xp": 1203066
           },
           "strength": {
-            "rank": 82388,
+            "rank": 82386,
             "level": 39,
             "xp": 36238
           },
           "hitpoints": {
-            "rank": 27463,
+            "rank": 27380,
             "level": 83,
-            "xp": 2726222
+            "xp": 2739344
           },
           "ranged": {
-            "rank": 59744,
+            "rank": 59651,
             "level": 73,
-            "xp": 1079945
+            "xp": 1086095
           },
           "prayer": {
-            "rank": 41070,
+            "rank": 41071,
             "level": 62,
             "xp": 351480
           },
           "magic": {
-            "rank": 22242,
+            "rank": 22178,
             "level": 96,
-            "xp": 10248516
+            "xp": 10293586
           },
           "cooking": {
             "rank": -1,
@@ -1454,287 +1454,9 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 83295,
+            "rank": 83294,
             "level": 46,
             "xp": 73725
-          },
-          "fletching": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "fishing": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "firemaking": {
-            "rank": 79591,
-            "level": 50,
-            "xp": 102300
-          },
-          "crafting": {
-            "rank": 57117,
-            "level": 46,
-            "xp": 75000
-          },
-          "smithing": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "mining": {
-            "rank": 100454,
-            "level": 13,
-            "xp": 1890
-          },
-          "herblore": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "agility": {
-            "rank": 115529,
-            "level": 53,
-            "xp": 138441
-          },
-          "thieving": {
-            "rank": 89832,
-            "level": 57,
-            "xp": 208914
-          },
-          "slayer": {
-            "rank": 75652,
-            "level": 31,
-            "xp": 15150
-          },
-          "farming": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "runecraft": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "hunter": {
-            "rank": 41981,
-            "level": 31,
-            "xp": 15000
-          },
-          "construction": {
-            "rank": 72442,
-            "level": 1,
-            "xp": 30
-          }
-        }
-      }
-    },
-    {
-      "id": "ww-greg",
-      "displayName": "Greg",
-      "accountName": "WW Greg",
-      "team": "Westham Weasels",
-      "teamCode": "WW",
-      "colour": "Yellow",
-      "accent": "#f5c542",
-      "captain": false,
-      "hiscore": {
-        "overallRank": 88969,
-        "totalLevel": 794,
-        "totalXp": 12859615,
-        "combatScore": 472,
-        "combatLevel": 91,
-        "skills": {
-          "overall": {
-            "rank": 88969,
-            "level": 794,
-            "xp": 12859615
-          },
-          "attack": {
-            "rank": 49146,
-            "level": 60,
-            "xp": 274255
-          },
-          "defence": {
-            "rank": 18739,
-            "level": 72,
-            "xp": 957520
-          },
-          "strength": {
-            "rank": 76362,
-            "level": 43,
-            "xp": 51925
-          },
-          "hitpoints": {
-            "rank": 32946,
-            "level": 80,
-            "xp": 2019355
-          },
-          "ranged": {
-            "rank": 80222,
-            "level": 61,
-            "xp": 315433
-          },
-          "prayer": {
-            "rank": 39343,
-            "level": 62,
-            "xp": 363720
-          },
-          "magic": {
-            "rank": 27247,
-            "level": 94,
-            "xp": 8266087
-          },
-          "cooking": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "woodcutting": {
-            "rank": 83283,
-            "level": 46,
-            "xp": 73762
-          },
-          "fletching": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "fishing": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "firemaking": {
-            "rank": 80242,
-            "level": 50,
-            "xp": 101850
-          },
-          "crafting": {
-            "rank": 57118,
-            "level": 46,
-            "xp": 75000
-          },
-          "smithing": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "mining": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "herblore": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "agility": {
-            "rank": 115746,
-            "level": 52,
-            "xp": 134043
-          },
-          "thieving": {
-            "rank": 90562,
-            "level": 56,
-            "xp": 196515
-          },
-          "slayer": {
-            "rank": 75654,
-            "level": 31,
-            "xp": 15150
-          },
-          "farming": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "runecraft": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "hunter": {
-            "rank": 41983,
-            "level": 31,
-            "xp": 15000
-          },
-          "construction": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          }
-        }
-      }
-    },
-    {
-      "id": "ww-mika",
-      "displayName": "Mika",
-      "accountName": "WW Mika",
-      "team": "Westham Weasels",
-      "teamCode": "WW",
-      "colour": "Yellow",
-      "accent": "#f5c542",
-      "captain": false,
-      "hiscore": {
-        "overallRank": 86757,
-        "totalLevel": 836,
-        "totalXp": 15306997,
-        "combatScore": 501,
-        "combatLevel": 92,
-        "skills": {
-          "overall": {
-            "rank": 86757,
-            "level": 836,
-            "xp": 15306997
-          },
-          "attack": {
-            "rank": 48137,
-            "level": 60,
-            "xp": 274408
-          },
-          "defence": {
-            "rank": 17513,
-            "level": 74,
-            "xp": 1113402
-          },
-          "strength": {
-            "rank": 64707,
-            "level": 53,
-            "xp": 137486
-          },
-          "hitpoints": {
-            "rank": 28107,
-            "level": 82,
-            "xp": 2637478
-          },
-          "ranged": {
-            "rank": 56955,
-            "level": 75,
-            "xp": 1253752
-          },
-          "prayer": {
-            "rank": 40700,
-            "level": 62,
-            "xp": 354022
-          },
-          "magic": {
-            "rank": 25278,
-            "level": 95,
-            "xp": 8888001
-          },
-          "cooking": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "woodcutting": {
-            "rank": 83407,
-            "level": 46,
-            "xp": 73050
           },
           "fletching": {
             "rank": -1,
@@ -1762,7 +1484,285 @@
             "xp": 0
           },
           "mining": {
-            "rank": 100621,
+            "rank": 100453,
+            "level": 13,
+            "xp": 1890
+          },
+          "herblore": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "agility": {
+            "rank": 113496,
+            "level": 56,
+            "xp": 191391
+          },
+          "thieving": {
+            "rank": 89831,
+            "level": 57,
+            "xp": 208914
+          },
+          "slayer": {
+            "rank": 75651,
+            "level": 31,
+            "xp": 15150
+          },
+          "farming": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "runecraft": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "hunter": {
+            "rank": 41981,
+            "level": 31,
+            "xp": 15000
+          },
+          "construction": {
+            "rank": 72440,
+            "level": 1,
+            "xp": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "ww-greg",
+      "displayName": "Greg",
+      "accountName": "WW Greg",
+      "team": "Westham Weasels",
+      "teamCode": "WW",
+      "colour": "Yellow",
+      "accent": "#f5c542",
+      "captain": false,
+      "hiscore": {
+        "overallRank": 87138,
+        "totalLevel": 829,
+        "totalXp": 15217661,
+        "combatScore": 491,
+        "combatLevel": 92,
+        "skills": {
+          "overall": {
+            "rank": 87138,
+            "level": 829,
+            "xp": 15217661
+          },
+          "attack": {
+            "rank": 46704,
+            "level": 60,
+            "xp": 274693
+          },
+          "defence": {
+            "rank": 17934,
+            "level": 73,
+            "xp": 1056378
+          },
+          "strength": {
+            "rank": 72887,
+            "level": 46,
+            "xp": 68365
+          },
+          "hitpoints": {
+            "rank": 30666,
+            "level": 81,
+            "xp": 2274680
+          },
+          "ranged": {
+            "rank": 59503,
+            "level": 74,
+            "xp": 1096344
+          },
+          "prayer": {
+            "rank": 39202,
+            "level": 62,
+            "xp": 364800
+          },
+          "magic": {
+            "rank": 23882,
+            "level": 95,
+            "xp": 9416211
+          },
+          "cooking": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "woodcutting": {
+            "rank": 83282,
+            "level": 46,
+            "xp": 73762
+          },
+          "fletching": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "fishing": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "firemaking": {
+            "rank": 80240,
+            "level": 50,
+            "xp": 101850
+          },
+          "crafting": {
+            "rank": 57116,
+            "level": 46,
+            "xp": 75000
+          },
+          "smithing": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "mining": {
+            "rank": 100309,
+            "level": 13,
+            "xp": 2100
+          },
+          "herblore": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "agility": {
+            "rank": 113658,
+            "level": 56,
+            "xp": 186783
+          },
+          "thieving": {
+            "rank": 90561,
+            "level": 56,
+            "xp": 196515
+          },
+          "slayer": {
+            "rank": 75653,
+            "level": 31,
+            "xp": 15150
+          },
+          "farming": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "runecraft": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "hunter": {
+            "rank": 41983,
+            "level": 31,
+            "xp": 15000
+          },
+          "construction": {
+            "rank": 72442,
+            "level": 1,
+            "xp": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "ww-mika",
+      "displayName": "Mika",
+      "accountName": "WW Mika",
+      "team": "Westham Weasels",
+      "teamCode": "WW",
+      "colour": "Yellow",
+      "accent": "#f5c542",
+      "captain": false,
+      "hiscore": {
+        "overallRank": 86492,
+        "totalLevel": 841,
+        "totalXp": 15592286,
+        "combatScore": 502,
+        "combatLevel": 93,
+        "skills": {
+          "overall": {
+            "rank": 86492,
+            "level": 841,
+            "xp": 15592286
+          },
+          "attack": {
+            "rank": 48136,
+            "level": 60,
+            "xp": 274408
+          },
+          "defence": {
+            "rank": 17342,
+            "level": 74,
+            "xp": 1140075
+          },
+          "strength": {
+            "rank": 64705,
+            "level": 53,
+            "xp": 137486
+          },
+          "hitpoints": {
+            "rank": 27694,
+            "level": 83,
+            "xp": 2691325
+          },
+          "ranged": {
+            "rank": 56171,
+            "level": 75,
+            "xp": 1308781
+          },
+          "prayer": {
+            "rank": 40701,
+            "level": 62,
+            "xp": 354022
+          },
+          "magic": {
+            "rank": 24998,
+            "level": 95,
+            "xp": 8984410
+          },
+          "cooking": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "woodcutting": {
+            "rank": 83406,
+            "level": 46,
+            "xp": 73050
+          },
+          "fletching": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "fishing": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "firemaking": {
+            "rank": 79587,
+            "level": 50,
+            "xp": 102300
+          },
+          "crafting": {
+            "rank": 57113,
+            "level": 46,
+            "xp": 75000
+          },
+          "smithing": {
+            "rank": -1,
+            "level": 1,
+            "xp": 0
+          },
+          "mining": {
+            "rank": 100620,
             "level": 12,
             "xp": 1680
           },
@@ -1772,17 +1772,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 115906,
-            "level": 52,
-            "xp": 130882
+            "rank": 113753,
+            "level": 56,
+            "xp": 184213
           },
           "thieving": {
-            "rank": 88394,
+            "rank": 88392,
             "level": 58,
             "xp": 235356
           },
           "slayer": {
-            "rank": 75651,
+            "rank": 75650,
             "level": 31,
             "xp": 15150
           },
@@ -1802,7 +1802,7 @@
             "xp": 15000
           },
           "construction": {
-            "rank": 72443,
+            "rank": 72441,
             "level": 1,
             "xp": 30
           }
@@ -1819,19 +1819,19 @@
       "accent": "#f5c542",
       "captain": false,
       "hiscore": {
-        "overallRank": 88136,
-        "totalLevel": 811,
-        "totalXp": 13598200,
-        "combatScore": 479,
+        "overallRank": 87848,
+        "totalLevel": 816,
+        "totalXp": 14180910,
+        "combatScore": 480,
         "combatLevel": 91,
         "skills": {
           "overall": {
-            "rank": 88136,
-            "level": 811,
-            "xp": 13598200
+            "rank": 87848,
+            "level": 816,
+            "xp": 14180910
           },
           "attack": {
-            "rank": 45666,
+            "rank": 45664,
             "level": 60,
             "xp": 274963
           },
@@ -1841,29 +1841,29 @@
             "xp": 738213
           },
           "strength": {
-            "rank": 82869,
+            "rank": 82868,
             "level": 38,
             "xp": 32784
           },
           "hitpoints": {
-            "rank": 30219,
-            "level": 81,
-            "xp": 2335224
+            "rank": 29287,
+            "level": 82,
+            "xp": 2459471
           },
           "ranged": {
-            "rank": 59354,
+            "rank": 58671,
             "level": 74,
-            "xp": 1102420
+            "xp": 1152640
           },
           "prayer": {
-            "rank": 41409,
+            "rank": 41410,
             "level": 62,
             "xp": 346305
           },
           "magic": {
-            "rank": 27592,
+            "rank": 26504,
             "level": 94,
-            "xp": 8173883
+            "xp": 8520506
           },
           "cooking": {
             "rank": -1,
@@ -1871,7 +1871,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 84651,
+            "rank": 84650,
             "level": 45,
             "xp": 66750
           },
@@ -1886,12 +1886,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 79590,
+            "rank": 79588,
             "level": 50,
             "xp": 102300
           },
           "crafting": {
-            "rank": 57116,
+            "rank": 57114,
             "level": 46,
             "xp": 75000
           },
@@ -1901,7 +1901,7 @@
             "xp": 0
           },
           "mining": {
-            "rank": 100489,
+            "rank": 100488,
             "level": 12,
             "xp": 1755
           },
@@ -1911,17 +1911,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 115946,
-            "level": 52,
-            "xp": 129855
+            "rank": 113492,
+            "level": 56,
+            "xp": 191475
           },
           "thieving": {
-            "rank": 91096,
+            "rank": 91095,
             "level": 56,
             "xp": 188568
           },
           "slayer": {
-            "rank": 75655,
+            "rank": 75654,
             "level": 31,
             "xp": 15150
           },
@@ -1941,7 +1941,7 @@
             "xp": 15000
           },
           "construction": {
-            "rank": 72441,
+            "rank": 72439,
             "level": 1,
             "xp": 30
           }
@@ -1958,51 +1958,51 @@
       "accent": "#f5c542",
       "captain": false,
       "hiscore": {
-        "overallRank": 78986,
-        "totalLevel": 975,
-        "totalXp": 12441514,
-        "combatScore": 458,
-        "combatLevel": 90,
+        "overallRank": 73258,
+        "totalLevel": 1068,
+        "totalXp": 14615744,
+        "combatScore": 478,
+        "combatLevel": 91,
         "skills": {
           "overall": {
-            "rank": 78986,
-            "level": 975,
-            "xp": 12441514
+            "rank": 73258,
+            "level": 1068,
+            "xp": 14615744
           },
           "attack": {
-            "rank": 48809,
+            "rank": 48808,
             "level": 60,
             "xp": 274308
           },
           "defence": {
-            "rank": 23179,
+            "rank": 23090,
             "level": 70,
-            "xp": 747492
+            "xp": 748366
           },
           "strength": {
-            "rank": 83481,
-            "level": 37,
-            "xp": 29311
+            "rank": 82473,
+            "level": 39,
+            "xp": 35355
           },
           "hitpoints": {
-            "rank": 32744,
+            "rank": 32373,
             "level": 80,
-            "xp": 2037178
+            "xp": 2073675
           },
           "ranged": {
-            "rank": 85974,
-            "level": 56,
-            "xp": 186765
+            "rank": 60530,
+            "level": 73,
+            "xp": 1024936
           },
           "prayer": {
-            "rank": 38785,
+            "rank": 38786,
             "level": 62,
             "xp": 368512
           },
           "magic": {
-            "rank": 30244,
-            "level": 93,
-            "xp": 7313841
+            "rank": 29249,
+            "level": 94,
+            "xp": 7947165
           },
           "cooking": {
             "rank": -1,
@@ -2010,14 +2010,14 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 72844,
-            "level": 52,
-            "xp": 126825
+            "rank": 68130,
+            "level": 54,
+            "xp": 161137
           },
           "fletching": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
+            "rank": 54207,
+            "level": 60,
+            "xp": 297885
           },
           "fishing": {
             "rank": -1,
@@ -2025,42 +2025,42 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 77844,
+            "rank": 77842,
             "level": 50,
             "xp": 104100
           },
           "crafting": {
-            "rank": 16756,
+            "rank": 16024,
             "level": 66,
-            "xp": 508882
+            "xp": 541282
           },
           "smithing": {
-            "rank": 20190,
-            "level": 57,
-            "xp": 218604
+            "rank": 9657,
+            "level": 65,
+            "xp": 458266
           },
           "mining": {
-            "rank": 70784,
-            "level": 33,
-            "xp": 20167
+            "rank": 69644,
+            "level": 34,
+            "xp": 22237
           },
           "herblore": {
-            "rank": 67779,
+            "rank": 67778,
             "level": 31,
             "xp": 15232
           },
           "agility": {
-            "rank": 115278,
-            "level": 53,
-            "xp": 144817
+            "rank": 113268,
+            "level": 56,
+            "xp": 197808
           },
           "thieving": {
-            "rank": 90516,
+            "rank": 90515,
             "level": 56,
             "xp": 197385
           },
           "slayer": {
-            "rank": 75653,
+            "rank": 75652,
             "level": 31,
             "xp": 15150
           },
@@ -2097,24 +2097,24 @@
       "accent": "#3fbf75",
       "captain": true,
       "hiscore": {
-        "overallRank": 82874,
+        "overallRank": 82875,
         "totalLevel": 906,
         "totalXp": 21531595,
         "combatScore": 546,
         "combatLevel": 101,
         "skills": {
           "overall": {
-            "rank": 82874,
+            "rank": 82875,
             "level": 906,
             "xp": 21531595
           },
           "attack": {
-            "rank": 22569,
+            "rank": 22571,
             "level": 70,
             "xp": 744346
           },
           "defence": {
-            "rank": 15859,
+            "rank": 15860,
             "level": 75,
             "xp": 1257305
           },
@@ -2129,17 +2129,17 @@
             "xp": 5445612
           },
           "ranged": {
-            "rank": 82812,
+            "rank": 82814,
             "level": 60,
             "xp": 274185
           },
           "prayer": {
-            "rank": 28090,
+            "rank": 28092,
             "level": 70,
             "xp": 744945
           },
           "magic": {
-            "rank": 28638,
+            "rank": 28640,
             "level": 94,
             "xp": 7989214
           },
@@ -2149,7 +2149,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 84570,
+            "rank": 84569,
             "level": 45,
             "xp": 67125
           },
@@ -2164,12 +2164,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 81211,
+            "rank": 81209,
             "level": 50,
             "xp": 101400
           },
           "crafting": {
-            "rank": 53060,
+            "rank": 53058,
             "level": 49,
             "xp": 96093
           },
@@ -2189,17 +2189,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 111290,
+            "rank": 111288,
             "level": 59,
             "xp": 261519
           },
           "thieving": {
-            "rank": 91314,
+            "rank": 91313,
             "level": 56,
             "xp": 185235
           },
           "slayer": {
-            "rank": 75751,
+            "rank": 75750,
             "level": 31,
             "xp": 15000
           },
@@ -2236,59 +2236,59 @@
       "accent": "#3fbf75",
       "captain": false,
       "hiscore": {
-        "overallRank": 33608,
+        "overallRank": 33607,
         "totalLevel": 1451,
         "totalXp": 19566047,
         "combatScore": 525,
         "combatLevel": 95,
         "skills": {
           "overall": {
-            "rank": 33608,
+            "rank": 33607,
             "level": 1451,
             "xp": 19566047
           },
           "attack": {
-            "rank": 21308,
+            "rank": 21309,
             "level": 70,
             "xp": 765947
           },
           "defence": {
-            "rank": 15693,
+            "rank": 15694,
             "level": 75,
             "xp": 1275976
           },
           "strength": {
-            "rank": 35712,
+            "rank": 35711,
             "level": 74,
             "xp": 1104195
           },
           "hitpoints": {
-            "rank": 25169,
+            "rank": 25170,
             "level": 84,
             "xp": 3137892
           },
           "ranged": {
-            "rank": 78923,
+            "rank": 78924,
             "level": 62,
             "xp": 334131
           },
           "prayer": {
-            "rank": 28548,
+            "rank": 28550,
             "level": 70,
             "xp": 741052
           },
           "magic": {
-            "rank": 33597,
+            "rank": 33596,
             "level": 90,
             "xp": 5783509
           },
           "cooking": {
-            "rank": 68858,
+            "rank": 68856,
             "level": 53,
             "xp": 142800
           },
           "woodcutting": {
-            "rank": 63797,
+            "rank": 63796,
             "level": 57,
             "xp": 210112
           },
@@ -2298,12 +2298,12 @@
             "xp": 253830
           },
           "fishing": {
-            "rank": 79830,
+            "rank": 79829,
             "level": 50,
             "xp": 107625
           },
           "firemaking": {
-            "rank": 76630,
+            "rank": 76628,
             "level": 50,
             "xp": 106800
           },
@@ -2323,17 +2323,17 @@
             "xp": 1009780
           },
           "herblore": {
-            "rank": 67828,
+            "rank": 67827,
             "level": 31,
             "xp": 15120
           },
           "agility": {
-            "rank": 96764,
+            "rank": 96762,
             "level": 73,
             "xp": 1059876
           },
           "thieving": {
-            "rank": 60371,
+            "rank": 60370,
             "level": 72,
             "xp": 967074
           },
@@ -2343,7 +2343,7 @@
             "xp": 298500
           },
           "farming": {
-            "rank": 53394,
+            "rank": 53393,
             "level": 58,
             "xp": 233902
           },
@@ -2358,7 +2358,7 @@
             "xp": 521322
           },
           "construction": {
-            "rank": 53715,
+            "rank": 53713,
             "level": 34,
             "xp": 21285
           }
@@ -2375,51 +2375,51 @@
       "accent": "#3fbf75",
       "captain": false,
       "hiscore": {
-        "overallRank": 83469,
-        "totalLevel": 896,
-        "totalXp": 15985824,
-        "combatScore": 536,
-        "combatLevel": 97,
+        "overallRank": 81989,
+        "totalLevel": 922,
+        "totalXp": 19285965,
+        "combatScore": 552,
+        "combatLevel": 98,
         "skills": {
           "overall": {
-            "rank": 83469,
-            "level": 896,
-            "xp": 15985824
+            "rank": 81989,
+            "level": 922,
+            "xp": 19285965
           },
           "attack": {
-            "rank": 22791,
+            "rank": 22745,
             "level": 70,
-            "xp": 742731
+            "xp": 743094
           },
           "defence": {
-            "rank": 15216,
+            "rank": 15218,
             "level": 76,
             "xp": 1338132
           },
           "strength": {
-            "rank": 26622,
-            "level": 80,
-            "xp": 2156228
+            "rank": 25138,
+            "level": 81,
+            "xp": 2401962
           },
           "hitpoints": {
-            "rank": 23021,
-            "level": 85,
-            "xp": 3538939
+            "rank": 19807,
+            "level": 87,
+            "xp": 4180729
           },
           "ranged": {
-            "rank": 74433,
-            "level": 64,
-            "xp": 418860
+            "rank": 58396,
+            "level": 74,
+            "xp": 1173970
           },
           "prayer": {
-            "rank": 29199,
+            "rank": 29202,
             "level": 70,
             "xp": 738307
           },
           "magic": {
-            "rank": 32301,
-            "level": 91,
-            "xp": 6299833
+            "rank": 29057,
+            "level": 94,
+            "xp": 7955507
           },
           "cooking": {
             "rank": -1,
@@ -2427,7 +2427,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 84459,
+            "rank": 84458,
             "level": 45,
             "xp": 67687
           },
@@ -2442,12 +2442,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 79586,
+            "rank": 79584,
             "level": 50,
             "xp": 102300
           },
           "crafting": {
-            "rank": 53059,
+            "rank": 53057,
             "level": 49,
             "xp": 96093
           },
@@ -2457,9 +2457,9 @@
             "xp": 0
           },
           "mining": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
+            "rank": 100870,
+            "level": 11,
+            "xp": 1470
           },
           "herblore": {
             "rank": -1,
@@ -2467,17 +2467,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 111571,
+            "rank": 111569,
             "level": 59,
             "xp": 250764
           },
           "thieving": {
-            "rank": 90855,
+            "rank": 90854,
             "level": 56,
             "xp": 191865
           },
           "slayer": {
-            "rank": 75752,
+            "rank": 75751,
             "level": 31,
             "xp": 15000
           },
@@ -2514,51 +2514,51 @@
       "accent": "#3fbf75",
       "captain": false,
       "hiscore": {
-        "overallRank": 56031,
-        "totalLevel": 1264,
-        "totalXp": 17368090,
-        "combatScore": 520,
-        "combatLevel": 94,
+        "overallRank": 53409,
+        "totalLevel": 1286,
+        "totalXp": 21839982,
+        "combatScore": 540,
+        "combatLevel": 95,
         "skills": {
           "overall": {
-            "rank": 56031,
-            "level": 1264,
-            "xp": 17368090
+            "rank": 53409,
+            "level": 1286,
+            "xp": 21839982
           },
           "attack": {
-            "rank": 26493,
+            "rank": 26491,
             "level": 66,
-            "xp": 497733
+            "xp": 497853
           },
           "defence": {
             "rank": 15692,
             "level": 75,
-            "xp": 1276213
+            "xp": 1276354
           },
           "strength": {
-            "rank": 35009,
-            "level": 74,
-            "xp": 1183935
+            "rank": 33547,
+            "level": 75,
+            "xp": 1295271
           },
           "hitpoints": {
-            "rank": 25852,
-            "level": 84,
-            "xp": 3006632
+            "rank": 20254,
+            "level": 87,
+            "xp": 4075244
           },
           "ranged": {
-            "rank": 82592,
-            "level": 60,
-            "xp": 275760
+            "rank": 60320,
+            "level": 73,
+            "xp": 1039011
           },
           "prayer": {
-            "rank": 27521,
+            "rank": 27523,
             "level": 70,
             "xp": 754084
           },
           "magic": {
-            "rank": 33185,
-            "level": 91,
-            "xp": 5933996
+            "rank": 28239,
+            "level": 94,
+            "xp": 8049373
           },
           "cooking": {
             "rank": -1,
@@ -2566,7 +2566,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 83140,
+            "rank": 83139,
             "level": 46,
             "xp": 74625
           },
@@ -2576,12 +2576,12 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 79829,
+            "rank": 79828,
             "level": 50,
             "xp": 107625
           },
           "firemaking": {
-            "rank": 79587,
+            "rank": 79585,
             "level": 50,
             "xp": 102300
           },
@@ -2591,37 +2591,37 @@
             "xp": 298878
           },
           "smithing": {
-            "rank": 8587,
+            "rank": 8586,
             "level": 68,
             "xp": 613500
           },
           "mining": {
-            "rank": 45949,
+            "rank": 45308,
             "level": 45,
-            "xp": 62992
+            "xp": 64957
           },
           "herblore": {
-            "rank": 67863,
+            "rank": 67862,
             "level": 31,
             "xp": 15007
           },
           "agility": {
-            "rank": 85531,
-            "level": 80,
-            "xp": 2059243
+            "rank": 81666,
+            "level": 82,
+            "xp": 2470303
           },
           "thieving": {
-            "rank": 90335,
+            "rank": 90334,
             "level": 56,
             "xp": 200370
           },
           "slayer": {
-            "rank": 52847,
+            "rank": 52846,
             "level": 48,
             "xp": 83250
           },
           "farming": {
-            "rank": 53383,
+            "rank": 53382,
             "level": 58,
             "xp": 234502
           },
@@ -2636,9 +2636,9 @@
             "xp": 351720
           },
           "construction": {
-            "rank": 57899,
+            "rank": 57879,
             "level": 30,
-            "xp": 14085
+            "xp": 14115
           }
         }
       }
@@ -2653,59 +2653,59 @@
       "accent": "#3fbf75",
       "captain": false,
       "hiscore": {
-        "overallRank": 45827,
-        "totalLevel": 1347,
-        "totalXp": 14280928,
-        "combatScore": 504,
-        "combatLevel": 87,
+        "overallRank": 44927,
+        "totalLevel": 1354,
+        "totalXp": 15465771,
+        "combatScore": 511,
+        "combatLevel": 88,
         "skills": {
           "overall": {
-            "rank": 45827,
-            "level": 1347,
-            "xp": 14280928
+            "rank": 44927,
+            "level": 1354,
+            "xp": 15465771
           },
           "attack": {
-            "rank": 56170,
+            "rank": 56168,
             "level": 56,
             "xp": 188268
           },
           "defence": {
-            "rank": 14524,
+            "rank": 14512,
             "level": 76,
-            "xp": 1462501
+            "xp": 1466356
           },
           "strength": {
-            "rank": 36806,
+            "rank": 36768,
             "level": 73,
-            "xp": 997443
+            "xp": 999807
           },
           "hitpoints": {
-            "rank": 40955,
-            "level": 75,
-            "xp": 1315307
+            "rank": 39549,
+            "level": 76,
+            "xp": 1419542
           },
           "ranged": {
-            "rank": 39585,
+            "rank": 38643,
             "level": 83,
-            "xp": 2742099
+            "xp": 2904160
           },
           "prayer": {
-            "rank": 31901,
+            "rank": 31902,
             "level": 66,
             "xp": 533287
           },
           "magic": {
-            "rank": 62548,
-            "level": 75,
-            "xp": 1316325
+            "rank": 52457,
+            "level": 81,
+            "xp": 2222241
           },
           "cooking": {
-            "rank": 66835,
+            "rank": 66834,
             "level": 54,
             "xp": 160020
           },
           "woodcutting": {
-            "rank": 85147,
+            "rank": 85146,
             "level": 45,
             "xp": 64500
           },
@@ -2715,12 +2715,12 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 76872,
+            "rank": 76871,
             "level": 52,
             "xp": 134145
           },
           "firemaking": {
-            "rank": 93229,
+            "rank": 93227,
             "level": 31,
             "xp": 15600
           },
@@ -2730,27 +2730,27 @@
             "xp": 385300
           },
           "smithing": {
-            "rank": 8664,
+            "rank": 8652,
             "level": 68,
-            "xp": 606675
+            "xp": 607387
           },
           "mining": {
-            "rank": 32573,
+            "rank": 32397,
             "level": 53,
-            "xp": 137527
+            "xp": 139597
           },
           "herblore": {
-            "rank": 33070,
+            "rank": 32817,
             "level": 60,
-            "xp": 282108
+            "xp": 285708
           },
           "agility": {
-            "rank": 110009,
+            "rank": 110007,
             "level": 61,
             "xp": 305347
           },
           "thieving": {
-            "rank": 85425,
+            "rank": 85423,
             "level": 60,
             "xp": 290122
           },
@@ -2760,7 +2760,7 @@
             "xp": 630082
           },
           "farming": {
-            "rank": 53405,
+            "rank": 53404,
             "level": 58,
             "xp": 232942
           },
@@ -2775,9 +2775,9 @@
             "xp": 2245605
           },
           "construction": {
-            "rank": 57898,
+            "rank": 57878,
             "level": 30,
-            "xp": 14085
+            "xp": 14115
           }
         }
       }
@@ -2792,16 +2792,16 @@
       "accent": "#3d8bfd",
       "captain": true,
       "hiscore": {
-        "overallRank": 72963,
-        "totalLevel": 1072,
-        "totalXp": 24625355,
-        "combatScore": 556,
-        "combatLevel": 104,
+        "overallRank": 72627,
+        "totalLevel": 1077,
+        "totalXp": 25286167,
+        "combatScore": 561,
+        "combatLevel": 105,
         "skills": {
           "overall": {
-            "rank": 72963,
-            "level": 1072,
-            "xp": 24625355
+            "rank": 72627,
+            "level": 1077,
+            "xp": 25286167
           },
           "attack": {
             "rank": 15426,
@@ -2814,29 +2814,29 @@
             "xp": 2686102
           },
           "strength": {
-            "rank": 19197,
-            "level": 86,
-            "xp": 3952420
+            "rank": 18333,
+            "level": 87,
+            "xp": 4267140
           },
           "hitpoints": {
-            "rank": 14515,
+            "rank": 14195,
             "level": 91,
-            "xp": 5922694
+            "xp": 6087958
           },
           "ranged": {
-            "rank": 85641,
-            "level": 56,
-            "xp": 194760
+            "rank": 82788,
+            "level": 60,
+            "xp": 274320
           },
           "prayer": {
-            "rank": 25804,
+            "rank": 25806,
             "level": 70,
             "xp": 812910
           },
           "magic": {
-            "rank": 28940,
+            "rank": 28157,
             "level": 94,
-            "xp": 7962529
+            "xp": 8063797
           },
           "cooking": {
             "rank": -1,
@@ -2844,7 +2844,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 84365,
+            "rank": 84364,
             "level": 46,
             "xp": 68250
           },
@@ -2854,17 +2854,17 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 72586,
+            "rank": 72585,
             "level": 55,
             "xp": 182925
           },
           "firemaking": {
-            "rank": 80128,
+            "rank": 80126,
             "level": 50,
             "xp": 102000
           },
           "crafting": {
-            "rank": 52240,
+            "rank": 52238,
             "level": 49,
             "xp": 101193
           },
@@ -2884,17 +2884,17 @@
             "xp": 0
           },
           "agility": {
-            "rank": 113685,
+            "rank": 113687,
             "level": 56,
             "xp": 186082
           },
           "thieving": {
-            "rank": 88612,
+            "rank": 88611,
             "level": 58,
             "xp": 231399
           },
           "slayer": {
-            "rank": 19295,
+            "rank": 19296,
             "level": 69,
             "xp": 686340
           },
@@ -2914,7 +2914,7 @@
             "xp": 90537
           },
           "construction": {
-            "rank": 57901,
+            "rank": 57899,
             "level": 30,
             "xp": 14085
           }
@@ -2931,36 +2931,36 @@
       "accent": "#3d8bfd",
       "captain": false,
       "hiscore": {
-        "overallRank": 86386,
-        "totalLevel": 843,
-        "totalXp": 16556869,
-        "combatScore": 478,
+        "overallRank": 86223,
+        "totalLevel": 846,
+        "totalXp": 17211644,
+        "combatScore": 479,
         "combatLevel": 100,
         "skills": {
           "overall": {
-            "rank": 86386,
-            "level": 843,
-            "xp": 16556869
+            "rank": 86223,
+            "level": 846,
+            "xp": 17211644
           },
           "attack": {
-            "rank": 22921,
+            "rank": 22923,
             "level": 70,
             "xp": 742017
           },
           "defence": {
-            "rank": 15726,
+            "rank": 15727,
             "level": 75,
             "xp": 1272036
           },
           "strength": {
-            "rank": 17219,
+            "rank": 17137,
             "level": 88,
-            "xp": 4600613
+            "xp": 4658243
           },
           "hitpoints": {
-            "rank": 23551,
+            "rank": 23110,
             "level": 85,
-            "xp": 3425142
+            "xp": 3519779
           },
           "ranged": {
             "rank": -1,
@@ -2968,14 +2968,14 @@
             "xp": 0
           },
           "prayer": {
-            "rank": 25605,
+            "rank": 25607,
             "level": 71,
             "xp": 816870
           },
           "magic": {
-            "rank": 37350,
-            "level": 88,
-            "xp": 4457949
+            "rank": 35963,
+            "level": 89,
+            "xp": 4915457
           },
           "cooking": {
             "rank": -1,
@@ -2983,7 +2983,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 85064,
+            "rank": 85063,
             "level": 45,
             "xp": 64875
           },
@@ -2998,12 +2998,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 80129,
+            "rank": 80127,
             "level": 50,
             "xp": 102000
           },
           "crafting": {
-            "rank": 52241,
+            "rank": 52239,
             "level": 49,
             "xp": 101193
           },
@@ -3023,14 +3023,14 @@
             "xp": 0
           },
           "agility": {
-            "rank": 113020,
+            "rank": 113018,
             "level": 57,
             "xp": 205117
           },
           "thieving": {
-            "rank": 91162,
-            "level": 56,
-            "xp": 187477
+            "rank": 88560,
+            "level": 58,
+            "xp": 232477
           },
           "slayer": {
             "rank": 22347,
@@ -3070,39 +3070,39 @@
       "accent": "#3d8bfd",
       "captain": false,
       "hiscore": {
-        "overallRank": 37922,
-        "totalLevel": 1411,
-        "totalXp": 19957661,
+        "overallRank": 35079,
+        "totalLevel": 1436,
+        "totalXp": 20422578,
         "combatScore": 543,
         "combatLevel": 100,
         "skills": {
           "overall": {
-            "rank": 37922,
-            "level": 1411,
-            "xp": 19957661
+            "rank": 35079,
+            "level": 1436,
+            "xp": 20422578
           },
           "attack": {
-            "rank": 18243,
+            "rank": 17993,
             "level": 73,
-            "xp": 1017909
+            "xp": 1067587
           },
           "defence": {
-            "rank": 13194,
+            "rank": 13100,
             "level": 79,
-            "xp": 1837112
+            "xp": 1880277
           },
           "strength": {
-            "rank": 23173,
+            "rank": 23001,
             "level": 83,
-            "xp": 2749428
+            "xp": 2806062
           },
           "hitpoints": {
-            "rank": 29477,
+            "rank": 28899,
             "level": 82,
-            "xp": 2432740
+            "xp": 2515904
           },
           "ranged": {
-            "rank": 73667,
+            "rank": 73669,
             "level": 64,
             "xp": 444645
           },
@@ -3112,62 +3112,62 @@
             "xp": 1578292
           },
           "magic": {
-            "rank": 41935,
+            "rank": 41216,
             "level": 85,
-            "xp": 3438560
+            "xp": 3591317
           },
           "cooking": {
-            "rank": 63806,
+            "rank": 63805,
             "level": 56,
             "xp": 187695
           },
           "woodcutting": {
-            "rank": 77707,
+            "rank": 77706,
             "level": 50,
             "xp": 103837
           },
           "fletching": {
-            "rank": 59670,
+            "rank": 59669,
             "level": 57,
             "xp": 220110
           },
           "fishing": {
-            "rank": 68820,
+            "rank": 68819,
             "level": 58,
             "xp": 233250
           },
           "firemaking": {
-            "rank": 73202,
+            "rank": 73200,
             "level": 52,
             "xp": 127125
           },
           "crafting": {
-            "rank": 3826,
+            "rank": 3755,
             "level": 80,
-            "xp": 2130861
+            "xp": 2177473
           },
           "smithing": {
-            "rank": 10054,
+            "rank": 10013,
             "level": 64,
-            "xp": 425380
+            "xp": 428452
           },
           "mining": {
-            "rank": 14701,
+            "rank": 14688,
             "level": 62,
-            "xp": 346777
+            "xp": 347377
           },
           "herblore": {
-            "rank": 37999,
-            "level": 56,
-            "xp": 203170
+            "rank": 36548,
+            "level": 57,
+            "xp": 224395
           },
           "agility": {
-            "rank": 108857,
+            "rank": 108855,
             "level": 62,
             "xp": 351495
           },
           "thieving": {
-            "rank": 70209,
+            "rank": 70208,
             "level": 68,
             "xp": 663660
           },
@@ -3177,9 +3177,9 @@
             "xp": 1000021
           },
           "farming": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
+            "rank": 66914,
+            "level": 25,
+            "xp": 8010
           },
           "runecraft": {
             "rank": 5573,
@@ -3192,7 +3192,7 @@
             "xp": 90444
           },
           "construction": {
-            "rank": 68921,
+            "rank": 68919,
             "level": 17,
             "xp": 3420
           }
@@ -3209,74 +3209,74 @@
       "accent": "#3d8bfd",
       "captain": false,
       "hiscore": {
-        "overallRank": 44281,
-        "totalLevel": 1359,
-        "totalXp": 14552078,
+        "overallRank": 43638,
+        "totalLevel": 1364,
+        "totalXp": 14992592,
         "combatScore": 503,
         "combatLevel": 92,
         "skills": {
           "overall": {
-            "rank": 44281,
-            "level": 1359,
-            "xp": 14552078
+            "rank": 43638,
+            "level": 1364,
+            "xp": 14992592
           },
           "attack": {
-            "rank": 22180,
+            "rank": 22182,
             "level": 70,
             "xp": 748480
           },
           "defence": {
-            "rank": 15843,
+            "rank": 15844,
             "level": 75,
             "xp": 1260151
           },
           "strength": {
-            "rank": 37333,
+            "rank": 37332,
             "level": 72,
             "xp": 957030
           },
           "hitpoints": {
-            "rank": 36802,
+            "rank": 36803,
             "level": 78,
             "xp": 1646055
           },
           "ranged": {
-            "rank": 84932,
+            "rank": 84934,
             "level": 57,
             "xp": 210752
           },
           "prayer": {
-            "rank": 30170,
+            "rank": 30172,
             "level": 68,
             "xp": 650112
           },
           "magic": {
-            "rank": 45161,
+            "rank": 45050,
             "level": 83,
-            "xp": 2914456
+            "xp": 2934586
           },
           "cooking": {
-            "rank": 67075,
+            "rank": 67073,
             "level": 54,
             "xp": 157809
           },
           "woodcutting": {
-            "rank": 84460,
+            "rank": 84459,
             "level": 45,
             "xp": 67687
           },
           "fletching": {
-            "rank": 59596,
+            "rank": 59595,
             "level": 57,
             "xp": 221325
           },
           "fishing": {
-            "rank": 65003,
+            "rank": 65002,
             "level": 60,
             "xp": 287925
           },
           "firemaking": {
-            "rank": 80666,
+            "rank": 80664,
             "level": 50,
             "xp": 101700
           },
@@ -3291,22 +3291,22 @@
             "xp": 297802
           },
           "mining": {
-            "rank": 48218,
+            "rank": 48217,
             "level": 44,
             "xp": 56137
           },
           "herblore": {
-            "rank": 58896,
+            "rank": 58894,
             "level": 41,
             "xp": 45007
           },
           "agility": {
-            "rank": 77386,
-            "level": 83,
-            "xp": 2919150
+            "rank": 74152,
+            "level": 85,
+            "xp": 3262959
           },
           "thieving": {
-            "rank": 87244,
+            "rank": 87242,
             "level": 59,
             "xp": 260059
           },
@@ -3316,9 +3316,9 @@
             "xp": 954402
           },
           "farming": {
-            "rank": 53031,
-            "level": 59,
-            "xp": 264337
+            "rank": 52180,
+            "level": 62,
+            "xp": 340912
           },
           "runecraft": {
             "rank": 21040,
@@ -3331,7 +3331,7 @@
             "xp": 96639
           },
           "construction": {
-            "rank": 69726,
+            "rank": 69724,
             "level": 12,
             "xp": 1710
           }
@@ -3348,51 +3348,51 @@
       "accent": "#3d8bfd",
       "captain": false,
       "hiscore": {
-        "overallRank": 68633,
-        "totalLevel": 1132,
-        "totalXp": 18347649,
-        "combatScore": 525,
-        "combatLevel": 96,
+        "overallRank": 67661,
+        "totalLevel": 1144,
+        "totalXp": 19394900,
+        "combatScore": 536,
+        "combatLevel": 98,
         "skills": {
           "overall": {
-            "rank": 68633,
-            "level": 1132,
-            "xp": 18347649
+            "rank": 67661,
+            "level": 1144,
+            "xp": 19394900
           },
           "attack": {
-            "rank": 21855,
+            "rank": 21857,
             "level": 70,
             "xp": 753250
           },
           "defence": {
-            "rank": 15373,
-            "level": 75,
-            "xp": 1326018
+            "rank": 14918,
+            "level": 76,
+            "xp": 1373502
           },
           "strength": {
-            "rank": 30070,
-            "level": 78,
-            "xp": 1691980
+            "rank": 26856,
+            "level": 80,
+            "xp": 2110870
           },
           "hitpoints": {
-            "rank": 22896,
-            "level": 85,
-            "xp": 3568928
+            "rank": 21670,
+            "level": 86,
+            "xp": 3813568
           },
           "ranged": {
-            "rank": 87951,
-            "level": 53,
-            "xp": 148800
+            "rank": 82672,
+            "level": 60,
+            "xp": 275007
           },
           "prayer": {
-            "rank": 27754,
+            "rank": 27756,
             "level": 70,
             "xp": 749992
           },
           "magic": {
-            "rank": 28717,
+            "rank": 27627,
             "level": 94,
-            "xp": 7981243
+            "xp": 8165338
           },
           "cooking": {
             "rank": -1,
@@ -3400,32 +3400,32 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 81721,
+            "rank": 81720,
             "level": 48,
             "xp": 83287
           },
           "fletching": {
-            "rank": 92389,
+            "rank": 92388,
             "level": 21,
             "xp": 5160
           },
           "fishing": {
-            "rank": 72587,
+            "rank": 72586,
             "level": 55,
             "xp": 182925
           },
           "firemaking": {
-            "rank": 78822,
+            "rank": 78820,
             "level": 50,
             "xp": 102900
           },
           "crafting": {
-            "rank": 29874,
+            "rank": 29875,
             "level": 59,
             "xp": 249640
           },
           "smithing": {
-            "rank": 64087,
+            "rank": 64086,
             "level": 41,
             "xp": 45510
           },
@@ -3445,14 +3445,14 @@
             "xp": 131227
           },
           "thieving": {
-            "rank": 88689,
+            "rank": 88688,
             "level": 58,
             "xp": 229995
           },
           "slayer": {
-            "rank": 17276,
-            "level": 70,
-            "xp": 792315
+            "rank": 16853,
+            "level": 71,
+            "xp": 818250
           },
           "farming": {
             "rank": -1,
@@ -3487,14 +3487,14 @@
       "accent": "#a66cff",
       "captain": true,
       "hiscore": {
-        "overallRank": 80141,
+        "overallRank": 80139,
         "totalLevel": 955,
         "totalXp": 15720935,
         "combatScore": 545,
         "combatLevel": 95,
         "skills": {
           "overall": {
-            "rank": 80141,
+            "rank": 80139,
             "level": 955,
             "xp": 15720935
           },
@@ -3509,22 +3509,22 @@
             "xp": 2000868
           },
           "strength": {
-            "rank": 37784,
+            "rank": 37783,
             "level": 72,
             "xp": 914961
           },
           "hitpoints": {
-            "rank": 25234,
+            "rank": 25235,
             "level": 84,
             "xp": 3123682
           },
           "ranged": {
-            "rank": 45180,
+            "rank": 45178,
             "level": 81,
             "xp": 2219833
           },
           "prayer": {
-            "rank": 28190,
+            "rank": 28192,
             "level": 70,
             "xp": 743947
           },
@@ -3539,7 +3539,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 90049,
+            "rank": 90048,
             "level": 41,
             "xp": 44062
           },
@@ -3554,12 +3554,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 80241,
+            "rank": 80239,
             "level": 50,
             "xp": 101850
           },
           "crafting": {
-            "rank": 52863,
+            "rank": 52861,
             "level": 49,
             "xp": 97443
           },
@@ -3569,22 +3569,22 @@
             "xp": 0
           },
           "mining": {
-            "rank": 73416,
+            "rank": 73415,
             "level": 32,
             "xp": 16950
           },
           "herblore": {
-            "rank": 73605,
+            "rank": 73604,
             "level": 20,
             "xp": 4500
           },
           "agility": {
-            "rank": 114287,
+            "rank": 114290,
             "level": 55,
             "xp": 170211
           },
           "thieving": {
-            "rank": 83170,
+            "rank": 83169,
             "level": 62,
             "xp": 334305
           },
@@ -3609,7 +3609,7 @@
             "xp": 15000
           },
           "construction": {
-            "rank": 72440,
+            "rank": 72438,
             "level": 1,
             "xp": 30
           }
@@ -3626,19 +3626,19 @@
       "accent": "#a66cff",
       "captain": false,
       "hiscore": {
-        "overallRank": 79466,
+        "overallRank": 79465,
         "totalLevel": 967,
         "totalXp": 15070000,
         "combatScore": 538,
         "combatLevel": 95,
         "skills": {
           "overall": {
-            "rank": 79466,
+            "rank": 79465,
             "level": 967,
             "xp": 15070000
           },
           "attack": {
-            "rank": 25114,
+            "rank": 25115,
             "level": 68,
             "xp": 634139
           },
@@ -3648,22 +3648,22 @@
             "xp": 1250426
           },
           "strength": {
-            "rank": 29897,
+            "rank": 29900,
             "level": 78,
             "xp": 1722234
           },
           "hitpoints": {
-            "rank": 27599,
+            "rank": 27598,
             "level": 83,
             "xp": 2705216
           },
           "ranged": {
-            "rank": 53795,
+            "rank": 53793,
             "level": 77,
             "xp": 1498469
           },
           "prayer": {
-            "rank": 30147,
+            "rank": 30149,
             "level": 68,
             "xp": 651990
           },
@@ -3678,7 +3678,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 87710,
+            "rank": 87709,
             "level": 43,
             "xp": 53625
           },
@@ -3693,12 +3693,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 77188,
+            "rank": 77186,
             "level": 50,
             "xp": 105300
           },
           "crafting": {
-            "rank": 52864,
+            "rank": 52862,
             "level": 49,
             "xp": 97443
           },
@@ -3708,22 +3708,22 @@
             "xp": 0
           },
           "mining": {
-            "rank": 100620,
+            "rank": 100619,
             "level": 12,
             "xp": 1680
           },
           "herblore": {
-            "rank": 73604,
+            "rank": 73603,
             "level": 20,
             "xp": 4500
           },
           "agility": {
-            "rank": 115727,
+            "rank": 115728,
             "level": 52,
             "xp": 134539
           },
           "thieving": {
-            "rank": 82663,
+            "rank": 82662,
             "level": 62,
             "xp": 343530
           },
@@ -3738,7 +3738,7 @@
             "xp": 0
           },
           "runecraft": {
-            "rank": 38679,
+            "rank": 38678,
             "level": 31,
             "xp": 15000
           },
@@ -3748,7 +3748,7 @@
             "xp": 15000
           },
           "construction": {
-            "rank": 72439,
+            "rank": 72437,
             "level": 1,
             "xp": 30
           }
@@ -3765,51 +3765,51 @@
       "accent": "#a66cff",
       "captain": false,
       "hiscore": {
-        "overallRank": 77617,
-        "totalLevel": 997,
-        "totalXp": 18826094,
-        "combatScore": 547,
-        "combatLevel": 95,
+        "overallRank": 77216,
+        "totalLevel": 1004,
+        "totalXp": 21845705,
+        "combatScore": 554,
+        "combatLevel": 96,
         "skills": {
           "overall": {
-            "rank": 77617,
-            "level": 997,
-            "xp": 18826094
+            "rank": 77216,
+            "level": 1004,
+            "xp": 21845705
           },
           "attack": {
-            "rank": 25474,
+            "rank": 25475,
             "level": 67,
             "xp": 580467
           },
           "defence": {
-            "rank": 13937,
-            "level": 77,
-            "xp": 1604374
+            "rank": 13073,
+            "level": 79,
+            "xp": 1888386
           },
           "strength": {
-            "rank": 36040,
+            "rank": 36039,
             "level": 73,
             "xp": 1074321
           },
           "hitpoints": {
-            "rank": 21919,
-            "level": 86,
-            "xp": 3749452
+            "rank": 17753,
+            "level": 88,
+            "xp": 4769498
           },
           "ranged": {
-            "rank": 39712,
+            "rank": 39331,
             "level": 83,
-            "xp": 2717741
+            "xp": 2778464
           },
           "prayer": {
-            "rank": 27676,
+            "rank": 27678,
             "level": 70,
             "xp": 751312
           },
           "magic": {
-            "rank": 31965,
-            "level": 91,
-            "xp": 6493393
+            "rank": 27716,
+            "level": 94,
+            "xp": 8148223
           },
           "cooking": {
             "rank": -1,
@@ -3817,7 +3817,7 @@
             "xp": 0
           },
           "woodcutting": {
-            "rank": 89766,
+            "rank": 89765,
             "level": 41,
             "xp": 45187
           },
@@ -3832,12 +3832,12 @@
             "xp": 0
           },
           "firemaking": {
-            "rank": 77867,
+            "rank": 77865,
             "level": 50,
             "xp": 104025
           },
           "crafting": {
-            "rank": 50432,
+            "rank": 50430,
             "level": 50,
             "xp": 106968
           },
@@ -3847,22 +3847,22 @@
             "xp": 0
           },
           "mining": {
-            "rank": 72989,
+            "rank": 72988,
             "level": 32,
             "xp": 17355
           },
           "herblore": {
-            "rank": 73606,
+            "rank": 73605,
             "level": 20,
             "xp": 4500
           },
           "agility": {
-            "rank": 114327,
+            "rank": 114330,
             "level": 55,
             "xp": 169210
           },
           "thieving": {
-            "rank": 85467,
+            "rank": 85465,
             "level": 60,
             "xp": 289305
           },
@@ -3877,7 +3877,7 @@
             "xp": 0
           },
           "runecraft": {
-            "rank": 38678,
+            "rank": 38677,
             "level": 31,
             "xp": 15000
           },
@@ -3904,51 +3904,51 @@
       "accent": "#a66cff",
       "captain": false,
       "hiscore": {
-        "overallRank": 63029,
-        "totalLevel": 1197,
-        "totalXp": 20654196,
-        "combatScore": 525,
-        "combatLevel": 93,
+        "overallRank": 62160,
+        "totalLevel": 1206,
+        "totalXp": 23332493,
+        "combatScore": 533,
+        "combatLevel": 94,
         "skills": {
           "overall": {
-            "rank": 63029,
-            "level": 1197,
-            "xp": 20654196
+            "rank": 62160,
+            "level": 1206,
+            "xp": 23332493
           },
           "attack": {
-            "rank": 25394,
+            "rank": 25395,
             "level": 67,
             "xp": 595605
           },
           "defence": {
-            "rank": 15900,
-            "level": 75,
-            "xp": 1252973
+            "rank": 14543,
+            "level": 76,
+            "xp": 1456163
           },
           "strength": {
-            "rank": 31071,
-            "level": 77,
-            "xp": 1572424
+            "rank": 30078,
+            "level": 78,
+            "xp": 1691653
           },
           "hitpoints": {
-            "rank": 41009,
-            "level": 75,
-            "xp": 1311992
+            "rank": 35065,
+            "level": 79,
+            "xp": 1812658
           },
           "ranged": {
-            "rank": 56941,
+            "rank": 56326,
             "level": 75,
-            "xp": 1254812
+            "xp": 1297839
           },
           "prayer": {
-            "rank": 26208,
+            "rank": 26210,
             "level": 70,
             "xp": 795172
           },
           "magic": {
-            "rank": 40139,
-            "level": 86,
-            "xp": 3774757
+            "rank": 36983,
+            "level": 88,
+            "xp": 4576494
           },
           "cooking": {
             "rank": -1,
@@ -3966,17 +3966,17 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 72575,
+            "rank": 72574,
             "level": 55,
             "xp": 183075
           },
           "firemaking": {
-            "rank": 80131,
+            "rank": 80129,
             "level": 50,
             "xp": 102000
           },
           "crafting": {
-            "rank": 52796,
+            "rank": 52794,
             "level": 49,
             "xp": 97893
           },
@@ -3986,24 +3986,24 @@
             "xp": 0
           },
           "mining": {
-            "rank": 29215,
+            "rank": 29214,
             "level": 55,
             "xp": 167295
           },
           "herblore": {
-            "rank": 61023,
+            "rank": 61021,
             "level": 39,
             "xp": 34545
           },
           "agility": {
-            "rank": 115235,
+            "rank": 115238,
             "level": 53,
             "xp": 145890
           },
           "thieving": {
-            "rank": 13985,
-            "level": 92,
-            "xp": 6740208
+            "rank": 12578,
+            "level": 93,
+            "xp": 7750656
           },
           "slayer": {
             "rank": 14704,
@@ -4026,7 +4026,7 @@
             "xp": 90556
           },
           "construction": {
-            "rank": 57900,
+            "rank": 57898,
             "level": 30,
             "xp": 14085
           }
@@ -4043,19 +4043,19 @@
       "accent": "#a66cff",
       "captain": false,
       "hiscore": {
-        "overallRank": 54905,
+        "overallRank": 54904,
         "totalLevel": 1274,
         "totalXp": 12473965,
         "combatScore": 516,
         "combatLevel": 90,
         "skills": {
           "overall": {
-            "rank": 54905,
+            "rank": 54904,
             "level": 1274,
             "xp": 12473965
           },
           "attack": {
-            "rank": 25415,
+            "rank": 25416,
             "level": 67,
             "xp": 591559
           },
@@ -4065,37 +4065,37 @@
             "xp": 1248131
           },
           "strength": {
-            "rank": 39043,
+            "rank": 39041,
             "level": 71,
             "xp": 826689
           },
           "hitpoints": {
-            "rank": 44088,
+            "rank": 44086,
             "level": 74,
             "xp": 1118968
           },
           "ranged": {
-            "rank": 53495,
+            "rank": 53493,
             "level": 77,
             "xp": 1526168
           },
           "prayer": {
-            "rank": 26189,
+            "rank": 26191,
             "level": 70,
             "xp": 795877
           },
           "magic": {
-            "rank": 48381,
+            "rank": 48380,
             "level": 82,
             "xp": 2497982
           },
           "cooking": {
-            "rank": 99252,
+            "rank": 99250,
             "level": 17,
             "xp": 3420
           },
           "woodcutting": {
-            "rank": 86467,
+            "rank": 86466,
             "level": 44,
             "xp": 59437
           },
@@ -4105,12 +4105,12 @@
             "xp": 0
           },
           "fishing": {
-            "rank": 79828,
+            "rank": 79827,
             "level": 50,
             "xp": 107625
           },
           "firemaking": {
-            "rank": 79340,
+            "rank": 79338,
             "level": 50,
             "xp": 102450
           },
@@ -4125,37 +4125,37 @@
             "xp": 433798
           },
           "mining": {
-            "rank": 43200,
+            "rank": 43199,
             "level": 46,
             "xp": 74332
           },
           "herblore": {
-            "rank": 60989,
+            "rank": 60987,
             "level": 39,
             "xp": 34726
           },
           "agility": {
-            "rank": 114962,
+            "rank": 114965,
             "level": 54,
             "xp": 152830
           },
           "thieving": {
-            "rank": 83171,
+            "rank": 83170,
             "level": 62,
             "xp": 334305
           },
           "slayer": {
-            "rank": 27501,
+            "rank": 27500,
             "level": 64,
             "xp": 407811
           },
           "farming": {
-            "rank": 55019,
+            "rank": 55018,
             "level": 54,
             "xp": 156390
           },
           "runecraft": {
-            "rank": 38680,
+            "rank": 38679,
             "level": 31,
             "xp": 15000
           },
@@ -4165,7 +4165,7 @@
             "xp": 1009867
           },
           "construction": {
-            "rank": 49216,
+            "rank": 49214,
             "level": 36,
             "xp": 26145
           }
