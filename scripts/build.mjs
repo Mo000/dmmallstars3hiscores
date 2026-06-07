@@ -16,12 +16,16 @@ const staticEntries = [
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
 
-await Promise.all(
-  staticEntries.map((entry) =>
-    cp(new URL(`../${entry}`, import.meta.url), new URL(`../dist/${entry}`, import.meta.url), {
+for (const entry of staticEntries) {
+  try {
+    await cp(new URL(`../${entry}`, import.meta.url), new URL(`../dist/${entry}`, import.meta.url), {
       recursive: true
-    })
-  )
-);
+    });
+  } catch (error) {
+    if (error?.code !== "ENOENT") {
+      throw error;
+    }
+  }
+}
 
 console.log(`Built static site to ${dist.replace(root, "")}`);
