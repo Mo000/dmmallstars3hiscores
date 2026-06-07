@@ -3,6 +3,9 @@ import { emptyHiscore, parseHiscoreLite } from "../../src/hiscores.js";
 const HISCORES_URL =
   "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws";
 const CACHE_SECONDS = 120;
+const ERROR_CACHE_SECONDS = 15;
+const RETRY_STATUSES = new Set([429, 500, 502, 503, 504]);
+const RETRY_DELAY_MS = 350;
 
 export async function onRequestGet({ request, env }) {
   const cache = caches.default;
@@ -16,6 +19,9 @@ export async function onRequestGet({ request, env }) {
   const fetchedAt = new Date().toISOString();
   const roster = await loadRoster(request, env);
   const players = await Promise.all(roster.map((player) => fetchPlayer(player)));
+  const cacheSeconds = players.some((player) => player.hiscore?.error)
+    ? ERROR_CACHE_SECONDS
+    : CACHE_SECONDS;
   const response = Response.json(
     {
       fetchedAt,
@@ -24,7 +30,7 @@ export async function onRequestGet({ request, env }) {
     },
     {
       headers: {
-        "Cache-Control": `public, max-age=${CACHE_SECONDS}`,
+        "Cache-Control": `public, max-age=${cacheSeconds}`,
         "Access-Control-Allow-Origin": "*"
       }
     }
@@ -56,28 +62,44 @@ async function fetchPlayer(player) {
   const url = new URL(HISCORES_URL);
   url.searchParams.set("player", player.accountName);
 
-  try {
-    const response = await fetch(url, {
-      headers: {
-        "User-Agent": "dmm3hiscores/0.1 unofficial fan project"
-      }
-    });
+  for (let attempt = 0; attempt < 2; attempt += 1) {
+    try {
+      const response = await fetch(url, {
+        headers: {
+          "User-Agent": "dmm3hiscores/0.1 unofficial fan project"
+        }
+      });
 
-    if (!response.ok) {
+      if (!response.ok) {
+        if (attempt === 0 && RETRY_STATUSES.has(response.status)) {
+          await delay(RETRY_DELAY_MS);
+          continue;
+        }
+
+        return {
+          ...player,
+          hiscore: emptyHiscore(`Hiscores returned ${response.status}`)
+        };
+      }
+
       return {
         ...player,
-        hiscore: emptyHiscore(`Hiscores returned ${response.status}`)
+        hiscore: parseHiscoreLite(await response.text())
+      };
+    } catch (error) {
+      if (attempt === 0) {
+        await delay(RETRY_DELAY_MS);
+        continue;
+      }
+
+      return {
+        ...player,
+        hiscore: emptyHiscore(error instanceof Error ? error.message : "Lookup failed")
       };
     }
-
-    return {
-      ...player,
-      hiscore: parseHiscoreLite(await response.text())
-    };
-  } catch (error) {
-    return {
-      ...player,
-      hiscore: emptyHiscore(error instanceof Error ? error.message : "Lookup failed")
-    };
   }
+}
+
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
