@@ -20,7 +20,12 @@ loadPlayers();
 setupHeaderClickHandlers();
 
 async function loadPlayers() {
-  renderStatusRow("Loading latest hiscores", "loading");
+  // Show stale data if available, otherwise show loading message
+  if (state.players.length > 0) {
+    render();
+  } else {
+    renderStatusRow("Loading latest hiscores", "loading");
+  }
 
   try {
     const data = await fetchPlayers();
