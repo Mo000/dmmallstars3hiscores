@@ -9,8 +9,11 @@ const port = readPort(process.argv) ?? 8788;
 const hiscoresUrl = "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws";
 const cacheMs = 120_000;
 const errorCacheMs = 15_000;
+const snapshotCacheMs = 300_000;
 const retryStatuses = new Set([429, 500, 502, 503, 504]);
 const retryDelayMs = 350;
+const hiscoresDownStartUtcHour = 4;
+const hiscoresDownEndUtcHour = 10;
 let playersCache = null;
 
 const server = createServer(async (request, response) => {
@@ -46,6 +49,31 @@ async function getPlayers() {
   }
 
   const rosterData = JSON.parse(await readFile(join(root, "data/players.json"), "utf8"));
+
+  if (hiscoresAreDown()) {
+    const snapshot = Array.isArray(rosterData)
+      ? {
+          fetchedAt: null,
+          source: hiscoresUrl,
+          players: rosterData
+        }
+      : rosterData;
+
+    const data = {
+      ...snapshot,
+      snapshot: true,
+      snapshotReason: "Hiscores are unavailable between 04:00 and 10:00 UTC."
+    };
+
+    playersCache = {
+      cachedAt: Date.now(),
+      cacheMs: Math.min(snapshotCacheMs, msUntilHiscoresReturn()),
+      data
+    };
+
+    return data;
+  }
+
   const roster = Array.isArray(rosterData) ? rosterData : rosterData.players;
 
   if (!Array.isArray(roster)) {
@@ -113,6 +141,17 @@ async function fetchPlayer(player) {
 
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function hiscoresAreDown(date = new Date()) {
+  const hour = date.getUTCHours();
+  return hour >= hiscoresDownStartUtcHour && hour < hiscoresDownEndUtcHour;
+}
+
+function msUntilHiscoresReturn(date = new Date()) {
+  const end = new Date(date);
+  end.setUTCHours(hiscoresDownEndUtcHour, 0, 0, 0);
+  return Math.max(1000, end.getTime() - date.getTime());
 }
 
 async function sendStatic(response, pathname) {

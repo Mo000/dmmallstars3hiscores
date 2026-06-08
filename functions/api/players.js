@@ -3,9 +3,12 @@ import { emptyHiscore, parseHiscoreLite } from "../../src/hiscores.js";
 const HISCORES_URL =
   "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws";
 const CACHE_SECONDS = 120;
+const SNAPSHOT_CACHE_SECONDS = 300;
 const ERROR_CACHE_SECONDS = 15;
 const RETRY_STATUSES = new Set([429, 500, 502, 503, 504]);
 const RETRY_DELAY_MS = 350;
+const HISCORES_DOWN_START_UTC_HOUR = 4;
+const HISCORES_DOWN_END_UTC_HOUR = 10;
 
 export async function onRequestGet({ request, env }) {
   const cache = caches.default;
@@ -16,39 +19,53 @@ export async function onRequestGet({ request, env }) {
     return cached;
   }
 
+  if (hiscoresAreDown()) {
+    const snapshot = await loadSnapshot(request, env);
+    const response = jsonResponse(
+      {
+        ...snapshot,
+        snapshot: true,
+        snapshotReason: "Hiscores are unavailable between 04:00 and 10:00 UTC."
+      },
+      Math.min(SNAPSHOT_CACHE_SECONDS, secondsUntilHiscoresReturn())
+    );
+
+    await cache.put(cacheKey, response.clone());
+    return response;
+  }
+
   const fetchedAt = new Date().toISOString();
   const roster = await loadRoster(request, env);
   const players = await Promise.all(roster.map((player) => fetchPlayer(player)));
   const cacheSeconds = players.some((player) => player.hiscore?.error)
     ? ERROR_CACHE_SECONDS
     : CACHE_SECONDS;
-  const response = Response.json(
+  const response = jsonResponse(
     {
       fetchedAt,
       source: HISCORES_URL,
       players
     },
-    {
-      headers: {
-        "Cache-Control": `public, max-age=${cacheSeconds}`,
-        "Access-Control-Allow-Origin": "*"
-      }
-    }
+    cacheSeconds
   );
 
   await cache.put(cacheKey, response.clone());
   return response;
 }
 
-async function loadRoster(request, env) {
+async function loadSnapshot(request, env) {
   const url = new URL("/data/players.json", request.url);
   const response = env?.ASSETS ? await env.ASSETS.fetch(url) : await fetch(url);
 
   if (!response.ok) {
-    throw new Error(`Could not load roster: ${response.status}`);
+    throw new Error(`Could not load snapshot: ${response.status}`);
   }
 
-  const data = await response.json();
+  return response.json();
+}
+
+async function loadRoster(request, env) {
+  const data = await loadSnapshot(request, env);
   const roster = Array.isArray(data) ? data : data.players;
 
   if (!Array.isArray(roster)) {
@@ -102,4 +119,24 @@ async function fetchPlayer(player) {
 
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function hiscoresAreDown(date = new Date()) {
+  const hour = date.getUTCHours();
+  return hour >= HISCORES_DOWN_START_UTC_HOUR && hour < HISCORES_DOWN_END_UTC_HOUR;
+}
+
+function secondsUntilHiscoresReturn(date = new Date()) {
+  const end = new Date(date);
+  end.setUTCHours(HISCORES_DOWN_END_UTC_HOUR, 0, 0, 0);
+  return Math.max(1, Math.ceil((end.getTime() - date.getTime()) / 1000));
+}
+
+function jsonResponse(data, cacheSeconds) {
+  return Response.json(data, {
+    headers: {
+      "Cache-Control": `public, max-age=${cacheSeconds}`,
+      "Access-Control-Allow-Origin": "*"
+    }
+  });
 }

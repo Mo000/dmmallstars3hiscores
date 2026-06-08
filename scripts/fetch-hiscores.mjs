@@ -5,8 +5,15 @@ const HISCORES_URL = "https://secure.runescape.com/m=hiscore_oldschool_tournamen
 const ROSTER_FILE = "data/players.json";
 const RETRY_STATUSES = new Set([429, 500, 502, 503, 504]);
 const RETRY_DELAY_MS = 350;
+const HISCORES_DOWN_START_UTC_HOUR = 4;
+const HISCORES_DOWN_END_UTC_HOUR = 10;
 
 async function main() {
+  if (hiscoresAreDown()) {
+    console.log("Hiscores are unavailable between 04:00 and 10:00 UTC. Keeping existing snapshot.");
+    return;
+  }
+
   console.log("Fetching hiscores data...");
   
   const data = JSON.parse(await readFile(ROSTER_FILE, "utf8"));
@@ -73,6 +80,11 @@ async function fetchPlayer(player) {
 
 function delay(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function hiscoresAreDown(date = new Date()) {
+  const hour = date.getUTCHours();
+  return hour >= HISCORES_DOWN_START_UTC_HOUR && hour < HISCORES_DOWN_END_UTC_HOUR;
 }
 
 main().catch(error => {
