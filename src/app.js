@@ -20,43 +20,46 @@ loadPlayers();
 setupHeaderClickHandlers();
 
 async function loadPlayers() {
-  // Show stale data if available, otherwise show loading message
-  if (state.players.length > 0) {
-    render();
-  } else {
-    renderStatusRow("Loading latest hiscores", "loading");
-  }
-
   try {
-    const data = await fetchPlayers();
+    // First load stale data from JSON
+    const staleData = await fetch("/data/players.json");
+    const staleJson = await staleData.json();
     
     // Handle both old format (array) and new format (object with players property)
-    if (Array.isArray(data)) {
-      state.players = data;
+    if (Array.isArray(staleJson)) {
+      state.players = staleJson;
       state.fetchedAt = null;
     } else {
-      state.players = data.players;
-      state.fetchedAt = data.fetchedAt;
+      state.players = staleJson.players;
+      state.fetchedAt = staleJson.fetchedAt;
     }
     
+    // Render stale data immediately
     render();
+
+    // Then try to fetch fresh data from API
+    try {
+      const freshResponse = await fetch("/api/players");
+      if (freshResponse.ok) {
+        const freshData = await freshResponse.json();
+        
+        if (Array.isArray(freshData)) {
+          state.players = freshData;
+          state.fetchedAt = null;
+        } else {
+          state.players = freshData.players;
+          state.fetchedAt = freshData.fetchedAt;
+        }
+        
+        // Re-render with fresh data
+        render();
+      }
+    } catch {
+      // API failed, stale data remains displayed
+    }
   } catch {
     renderStatusRow("Could not load hiscores. Refresh to try again.", "error");
   }
-}
-
-async function fetchPlayers() {
-  try {
-    const response = await fetch("/api/players");
-    if (response.ok) {
-      return response.json();
-    }
-  } catch {
-    // Fall back to the committed snapshot when Pages Functions are unavailable.
-  }
-
-  const response = await fetch("/data/players.json");
-  return response.json();
 }
 
 function render() {
