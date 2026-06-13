@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-13T19:50:34.806Z",
+  "fetchedAt": "2026-06-13T21:09:43.980Z",
   "source": "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws",
   "players": [
     {
@@ -29,7 +29,7 @@
             "xp": 2777226
           },
           "defence": {
-            "rank": 18,
+            "rank": 19,
             "level": 90,
             "xp": 5436770
           },
@@ -44,7 +44,7 @@
             "xp": 13034913
           },
           "ranged": {
-            "rank": 13,
+            "rank": 14,
             "level": 96,
             "xp": 10351934
           },
@@ -312,7 +312,7 @@
             "xp": 2824414
           },
           "strength": {
-            "rank": 12,
+            "rank": 13,
             "level": 98,
             "xp": 12442648
           },
@@ -456,7 +456,7 @@
             "xp": 5388943
           },
           "hitpoints": {
-            "rank": 28,
+            "rank": 29,
             "level": 97,
             "xp": 10818903
           },
@@ -590,7 +590,7 @@
             "xp": 6886292
           },
           "strength": {
-            "rank": 9,
+            "rank": 10,
             "level": 99,
             "xp": 13034680
           },
@@ -600,7 +600,7 @@
             "xp": 13034582
           },
           "ranged": {
-            "rank": 24,
+            "rank": 25,
             "level": 92,
             "xp": 7008762
           },
@@ -708,20 +708,20 @@
       "captain": true,
       "hiscore": {
         "overallRank": 10,
-        "totalLevel": 1684,
-        "totalXp": 72840752,
-        "combatScore": 649,
-        "combatLevel": 117,
+        "totalLevel": 1687,
+        "totalXp": 74839813,
+        "combatScore": 652,
+        "combatLevel": 118,
         "skills": {
           "overall": {
             "rank": 10,
-            "level": 1684,
-            "xp": 72840752
+            "level": 1687,
+            "xp": 74839813
           },
           "attack": {
-            "rank": 11,
-            "level": 91,
-            "xp": 6411867
+            "rank": 8,
+            "level": 93,
+            "xp": 7339269
           },
           "defence": {
             "rank": 21,
@@ -739,9 +739,9 @@
             "xp": 13034999
           },
           "ranged": {
-            "rank": 6,
-            "level": 98,
-            "xp": 12348461
+            "rank": 1,
+            "level": 99,
+            "xp": 13036025
           },
           "prayer": {
             "rank": 22,
@@ -751,7 +751,7 @@
           "magic": {
             "rank": 29,
             "level": 97,
-            "xp": 10732724
+            "xp": 11043842
           },
           "cooking": {
             "rank": 18,
@@ -766,7 +766,7 @@
           "fletching": {
             "rank": 10,
             "level": 74,
-            "xp": 1110591
+            "xp": 1111686
           },
           "fishing": {
             "rank": 11,
@@ -796,7 +796,7 @@
           "herblore": {
             "rank": 13,
             "level": 78,
-            "xp": 1691157
+            "xp": 1757916
           },
           "agility": {
             "rank": 28,
@@ -809,14 +809,14 @@
             "xp": 2114087
           },
           "slayer": {
-            "rank": 12,
+            "rank": 13,
             "level": 80,
             "xp": 2061138
           },
           "farming": {
             "rank": 4,
             "level": 79,
-            "xp": 1822285
+            "xp": 1827408
           },
           "runecraft": {
             "rank": 1,
@@ -847,15 +847,15 @@
       "captain": false,
       "hiscore": {
         "overallRank": 17,
-        "totalLevel": 1356,
-        "totalXp": 80214249,
-        "combatScore": 665,
+        "totalLevel": 1357,
+        "totalXp": 81493990,
+        "combatScore": 666,
         "combatLevel": 122,
         "skills": {
           "overall": {
             "rank": 17,
-            "level": 1356,
-            "xp": 80214249
+            "level": 1357,
+            "xp": 81493990
           },
           "attack": {
             "rank": 1,
@@ -865,7 +865,7 @@
           "defence": {
             "rank": 3,
             "level": 98,
-            "xp": 11921469
+            "xp": 12083480
           },
           "strength": {
             "rank": 2,
@@ -878,9 +878,9 @@
             "xp": 13035120
           },
           "ranged": {
-            "rank": 8,
-            "level": 97,
-            "xp": 11454111
+            "rank": 7,
+            "level": 98,
+            "xp": 12252638
           },
           "prayer": {
             "rank": 20,
@@ -890,7 +890,7 @@
           "magic": {
             "rank": 28,
             "level": 97,
-            "xp": 10775686
+            "xp": 11094889
           },
           "cooking": {
             "rank": -1,
@@ -986,20 +986,20 @@
       "captain": false,
       "hiscore": {
         "overallRank": 12,
-        "totalLevel": 1665,
-        "totalXp": 78780386,
-        "combatScore": 647,
+        "totalLevel": 1666,
+        "totalXp": 79660646,
+        "combatScore": 648,
         "combatLevel": 119,
         "skills": {
           "overall": {
             "rank": 12,
-            "level": 1665,
-            "xp": 78780386
+            "level": 1666,
+            "xp": 79660646
           },
           "attack": {
             "rank": 6,
             "level": 94,
-            "xp": 8089257
+            "xp": 8516939
           },
           "defence": {
             "rank": 17,
@@ -1017,9 +1017,9 @@
             "xp": 13035013
           },
           "ranged": {
-            "rank": 30,
-            "level": 89,
-            "xp": 5337113
+            "rank": 29,
+            "level": 90,
+            "xp": 5789691
           },
           "prayer": {
             "rank": 18,
@@ -1125,25 +1125,25 @@
       "captain": false,
       "hiscore": {
         "overallRank": 16,
-        "totalLevel": 1380,
-        "totalXp": 65871710,
-        "combatScore": 651,
+        "totalLevel": 1381,
+        "totalXp": 67156232,
+        "combatScore": 652,
         "combatLevel": 120,
         "skills": {
           "overall": {
             "rank": 16,
-            "level": 1380,
-            "xp": 65871710
+            "level": 1381,
+            "xp": 67156232
           },
           "attack": {
-            "rank": 3,
-            "level": 97,
-            "xp": 10754840
+            "rank": 2,
+            "level": 98,
+            "xp": 11934644
           },
           "defence": {
-            "rank": 20,
+            "rank": 18,
             "level": 90,
-            "xp": 5365301
+            "xp": 5470019
           },
           "strength": {
             "rank": 4,
@@ -1156,7 +1156,7 @@
             "xp": 13034679
           },
           "ranged": {
-            "rank": 29,
+            "rank": 30,
             "level": 90,
             "xp": 5480257
           },
@@ -1264,30 +1264,30 @@
       "captain": false,
       "hiscore": {
         "overallRank": 2,
-        "totalLevel": 1830,
-        "totalXp": 101408933,
-        "combatScore": 663,
-        "combatLevel": 120,
+        "totalLevel": 1833,
+        "totalXp": 104410202,
+        "combatScore": 666,
+        "combatLevel": 121,
         "skills": {
           "overall": {
             "rank": 2,
-            "level": 1830,
-            "xp": 101408933
+            "level": 1833,
+            "xp": 104410202
           },
           "attack": {
-            "rank": 5,
-            "level": 96,
-            "xp": 10118505
+            "rank": 4,
+            "level": 97,
+            "xp": 10917267
           },
           "defence": {
-            "rank": 11,
-            "level": 93,
-            "xp": 7196598
+            "rank": 9,
+            "level": 94,
+            "xp": 8696598
           },
           "strength": {
-            "rank": 13,
-            "level": 98,
-            "xp": 12336374
+            "rank": 9,
+            "level": 99,
+            "xp": 13034891
           },
           "hitpoints": {
             "rank": 6,
@@ -1295,7 +1295,7 @@
             "xp": 13034852
           },
           "ranged": {
-            "rank": 5,
+            "rank": 6,
             "level": 99,
             "xp": 13034488
           },
@@ -1320,7 +1320,7 @@
             "xp": 267936
           },
           "fletching": {
-            "rank": 2,
+            "rank": 3,
             "level": 86,
             "xp": 3677376
           },
@@ -1372,7 +1372,7 @@
           "farming": {
             "rank": 7,
             "level": 77,
-            "xp": 1616278
+            "xp": 1620268
           },
           "runecraft": {
             "rank": 2,
@@ -1404,14 +1404,14 @@
       "hiscore": {
         "overallRank": 20,
         "totalLevel": 1339,
-        "totalXp": 57256757,
+        "totalXp": 57730706,
         "combatScore": 638,
         "combatLevel": 115,
         "skills": {
           "overall": {
             "rank": 20,
             "level": 1339,
-            "xp": 57256757
+            "xp": 57730706
           },
           "attack": {
             "rank": 20,
@@ -1419,24 +1419,24 @@
             "xp": 4352900
           },
           "defence": {
-            "rank": 27,
+            "rank": 29,
             "level": 88,
             "xp": 4531832
           },
           "strength": {
             "rank": 22,
             "level": 95,
-            "xp": 9534361
+            "xp": 9616359
           },
           "hitpoints": {
             "rank": 27,
             "level": 97,
-            "xp": 11364013
+            "xp": 11502123
           },
           "ranged": {
-            "rank": 21,
+            "rank": 20,
             "level": 93,
-            "xp": 7488028
+            "xp": 7741839
           },
           "prayer": {
             "rank": 6,
@@ -1496,7 +1496,7 @@
           "agility": {
             "rank": 11,
             "level": 81,
-            "xp": 2232670
+            "xp": 2232700
           },
           "thieving": {
             "rank": 17,
@@ -1543,17 +1543,17 @@
       "hiscore": {
         "overallRank": 23,
         "totalLevel": 1315,
-        "totalXp": 59628008,
+        "totalXp": 59824139,
         "combatScore": 638,
         "combatLevel": 114,
         "skills": {
           "overall": {
             "rank": 23,
             "level": 1315,
-            "xp": 59628008
+            "xp": 59824139
           },
           "attack": {
-            "rank": 25,
+            "rank": 26,
             "level": 82,
             "xp": 2422710
           },
@@ -1565,17 +1565,17 @@
           "strength": {
             "rank": 14,
             "level": 98,
-            "xp": 12032704
+            "xp": 12054844
           },
           "hitpoints": {
             "rank": 25,
             "level": 97,
-            "xp": 11672466
+            "xp": 11734594
           },
           "ranged": {
-            "rank": 16,
+            "rank": 17,
             "level": 95,
-            "xp": 8928185
+            "xp": 9040048
           },
           "prayer": {
             "rank": 12,
@@ -1682,24 +1682,24 @@
       "hiscore": {
         "overallRank": 19,
         "totalLevel": 1345,
-        "totalXp": 70606408,
+        "totalXp": 70878202,
         "combatScore": 657,
         "combatLevel": 119,
         "skills": {
           "overall": {
             "rank": 19,
             "level": 1345,
-            "xp": 70606408
+            "xp": 70878202
           },
           "attack": {
-            "rank": 14,
+            "rank": 15,
             "level": 91,
             "xp": 5902992
           },
           "defence": {
-            "rank": 10,
+            "rank": 11,
             "level": 93,
-            "xp": 7316448
+            "xp": 7510410
           },
           "strength": {
             "rank": 6,
@@ -1712,9 +1712,9 @@
             "xp": 13034718
           },
           "ranged": {
-            "rank": 11,
+            "rank": 10,
             "level": 97,
-            "xp": 10959972
+            "xp": 11037804
           },
           "prayer": {
             "rank": 5,
@@ -1821,14 +1821,14 @@
       "hiscore": {
         "overallRank": 25,
         "totalLevel": 1308,
-        "totalXp": 54403764,
+        "totalXp": 54777758,
         "combatScore": 633,
         "combatLevel": 113,
         "skills": {
           "overall": {
             "rank": 25,
             "level": 1308,
-            "xp": 54403764
+            "xp": 54777758
           },
           "attack": {
             "rank": 28,
@@ -1843,17 +1843,17 @@
           "strength": {
             "rank": 26,
             "level": 94,
-            "xp": 8086166
+            "xp": 8195040
           },
           "hitpoints": {
-            "rank": 29,
+            "rank": 28,
             "level": 97,
-            "xp": 10745134
+            "xp": 10849107
           },
           "ranged": {
             "rank": 18,
             "level": 94,
-            "xp": 8294730
+            "xp": 8455877
           },
           "prayer": {
             "rank": 3,
@@ -1960,14 +1960,14 @@
       "hiscore": {
         "overallRank": 11,
         "totalLevel": 1669,
-        "totalXp": 56660667,
+        "totalXp": 56663031,
         "combatScore": 619,
         "combatLevel": 109,
         "skills": {
           "overall": {
             "rank": 11,
             "level": 1669,
-            "xp": 56660667
+            "xp": 56663031
           },
           "attack": {
             "rank": 29,
@@ -1987,7 +1987,7 @@
           "hitpoints": {
             "rank": 30,
             "level": 94,
-            "xp": 8694902
+            "xp": 8695916
           },
           "ranged": {
             "rank": 19,
@@ -2037,7 +2037,7 @@
           "smithing": {
             "rank": 7,
             "level": 74,
-            "xp": 1203354
+            "xp": 1204704
           },
           "mining": {
             "rank": 10,
@@ -2109,7 +2109,7 @@
             "xp": 67325810
           },
           "attack": {
-            "rank": 8,
+            "rank": 9,
             "level": 93,
             "xp": 7197884
           },
@@ -2129,7 +2129,7 @@
             "xp": 13034650
           },
           "ranged": {
-            "rank": 7,
+            "rank": 8,
             "level": 97,
             "xp": 11480848
           },
@@ -2248,7 +2248,7 @@
             "xp": 111666502
           },
           "attack": {
-            "rank": 2,
+            "rank": 3,
             "level": 97,
             "xp": 11482800
           },
@@ -2258,7 +2258,7 @@
             "xp": 13034664
           },
           "strength": {
-            "rank": 11,
+            "rank": 12,
             "level": 98,
             "xp": 12656456
           },
@@ -2268,7 +2268,7 @@
             "xp": 13034573
           },
           "ranged": {
-            "rank": 10,
+            "rank": 11,
             "level": 97,
             "xp": 10973764
           },
@@ -2397,7 +2397,7 @@
             "xp": 6238531
           },
           "strength": {
-            "rank": 10,
+            "rank": 11,
             "level": 99,
             "xp": 13034668
           },
@@ -2407,7 +2407,7 @@
             "xp": 13034847
           },
           "ranged": {
-            "rank": 1,
+            "rank": 2,
             "level": 99,
             "xp": 13035490
           },
@@ -2526,7 +2526,7 @@
             "xp": 102076402
           },
           "attack": {
-            "rank": 10,
+            "rank": 12,
             "level": 91,
             "xp": 6500180
           },
@@ -2546,7 +2546,7 @@
             "xp": 13034553
           },
           "ranged": {
-            "rank": 3,
+            "rank": 4,
             "level": 99,
             "xp": 13034557
           },
@@ -2596,7 +2596,7 @@
             "xp": 675168
           },
           "mining": {
-            "rank": 8,
+            "rank": 9,
             "level": 62,
             "xp": 343777
           },
@@ -2626,7 +2626,7 @@
             "xp": 1574500
           },
           "runecraft": {
-            "rank": 5,
+            "rank": 6,
             "level": 64,
             "xp": 446730
           },
@@ -2654,40 +2654,40 @@
       "captain": false,
       "hiscore": {
         "overallRank": 4,
-        "totalLevel": 1808,
-        "totalXp": 82018338,
-        "combatScore": 638,
+        "totalLevel": 1810,
+        "totalXp": 83022535,
+        "combatScore": 639,
         "combatLevel": 114,
         "skills": {
           "overall": {
             "rank": 4,
-            "level": 1808,
-            "xp": 82018338
+            "level": 1810,
+            "xp": 83022535
           },
           "attack": {
-            "rank": 18,
+            "rank": 17,
             "level": 90,
-            "xp": 5420804
+            "xp": 5436787
           },
           "defence": {
             "rank": 26,
             "level": 88,
-            "xp": 4556457
+            "xp": 4572908
           },
           "strength": {
             "rank": 28,
             "level": 90,
-            "xp": 5545794
+            "xp": 5564205
           },
           "hitpoints": {
             "rank": 23,
             "level": 98,
-            "xp": 12530420
+            "xp": 12708741
           },
           "ranged": {
             "rank": 15,
-            "level": 95,
-            "xp": 9656057
+            "level": 96,
+            "xp": 10134546
           },
           "prayer": {
             "rank": 8,
@@ -2727,12 +2727,12 @@
           "crafting": {
             "rank": 2,
             "level": 91,
-            "xp": 5935081
+            "xp": 5967481
           },
           "smithing": {
             "rank": 9,
             "level": 69,
-            "xp": 695004
+            "xp": 704566
           },
           "mining": {
             "rank": 4,
@@ -2741,8 +2741,8 @@
           },
           "herblore": {
             "rank": 1,
-            "level": 91,
-            "xp": 6292518
+            "level": 92,
+            "xp": 6547098
           },
           "agility": {
             "rank": 20,
@@ -2765,7 +2765,7 @@
             "xp": 2615269
           },
           "runecraft": {
-            "rank": 6,
+            "rank": 7,
             "level": 64,
             "xp": 446730
           },
@@ -2793,18 +2793,18 @@
       "captain": true,
       "hiscore": {
         "overallRank": 8,
-        "totalLevel": 1727,
-        "totalXp": 82207442,
-        "combatScore": 660,
+        "totalLevel": 1728,
+        "totalXp": 83463529,
+        "combatScore": 661,
         "combatLevel": 121,
         "skills": {
           "overall": {
             "rank": 8,
-            "level": 1727,
-            "xp": 82207442
+            "level": 1728,
+            "xp": 83463529
           },
           "attack": {
-            "rank": 4,
+            "rank": 5,
             "level": 96,
             "xp": 10681602
           },
@@ -2824,9 +2824,9 @@
             "xp": 13034439
           },
           "ranged": {
-            "rank": 17,
-            "level": 95,
-            "xp": 8849603
+            "rank": 16,
+            "level": 96,
+            "xp": 10049283
           },
           "prayer": {
             "rank": 24,
@@ -2866,17 +2866,17 @@
           "crafting": {
             "rank": 10,
             "level": 74,
-            "xp": 1104132
+            "xp": 1118877
           },
           "smithing": {
             "rank": 11,
             "level": 68,
-            "xp": 643176
+            "xp": 643371
           },
           "mining": {
-            "rank": 9,
+            "rank": 8,
             "level": 62,
-            "xp": 341092
+            "xp": 344692
           },
           "herblore": {
             "rank": 8,
@@ -2901,12 +2901,12 @@
           "farming": {
             "rank": 6,
             "level": 78,
-            "xp": 1696032
+            "xp": 1733149
           },
           "runecraft": {
-            "rank": 7,
+            "rank": 3,
             "level": 64,
-            "xp": 446730
+            "xp": 447480
           },
           "hunter": {
             "rank": 8,
@@ -2932,23 +2932,23 @@
       "captain": false,
       "hiscore": {
         "overallRank": 18,
-        "totalLevel": 1351,
-        "totalXp": 65734969,
-        "combatScore": 649,
+        "totalLevel": 1352,
+        "totalXp": 66391249,
+        "combatScore": 650,
         "combatLevel": 117,
         "skills": {
           "overall": {
             "rank": 18,
-            "level": 1351,
-            "xp": 65734969
+            "level": 1352,
+            "xp": 66391249
           },
           "attack": {
-            "rank": 16,
-            "level": 90,
-            "xp": 5468304
+            "rank": 13,
+            "level": 91,
+            "xp": 6124584
           },
           "defence": {
-            "rank": 19,
+            "rank": 20,
             "level": 90,
             "xp": 5409333
           },
@@ -3071,25 +3071,25 @@
       "captain": false,
       "hiscore": {
         "overallRank": 6,
-        "totalLevel": 1780,
-        "totalXp": 79962435,
-        "combatScore": 639,
-        "combatLevel": 113,
+        "totalLevel": 1781,
+        "totalXp": 80011763,
+        "combatScore": 640,
+        "combatLevel": 114,
         "skills": {
           "overall": {
             "rank": 6,
-            "level": 1780,
-            "xp": 79962435
+            "level": 1781,
+            "xp": 80011763
           },
           "attack": {
-            "rank": 26,
-            "level": 81,
-            "xp": 2418521
+            "rank": 25,
+            "level": 82,
+            "xp": 2448508
           },
           "defence": {
-            "rank": 28,
+            "rank": 27,
             "level": 88,
-            "xp": 4524588
+            "xp": 4543704
           },
           "strength": {
             "rank": 23,
@@ -3102,7 +3102,7 @@
             "xp": 13034466
           },
           "ranged": {
-            "rank": 2,
+            "rank": 3,
             "level": 99,
             "xp": 13034577
           },
@@ -3149,7 +3149,7 @@
           "smithing": {
             "rank": 6,
             "level": 76,
-            "xp": 1373916
+            "xp": 1374141
           },
           "mining": {
             "rank": 7,
@@ -3182,7 +3182,7 @@
             "xp": 1769382
           },
           "runecraft": {
-            "rank": 3,
+            "rank": 4,
             "level": 64,
             "xp": 446730
           },
@@ -3210,30 +3210,30 @@
       "captain": false,
       "hiscore": {
         "overallRank": 3,
-        "totalLevel": 1816,
-        "totalXp": 95488048,
+        "totalLevel": 1819,
+        "totalXp": 96984065,
         "combatScore": 655,
         "combatLevel": 118,
         "skills": {
           "overall": {
             "rank": 3,
-            "level": 1816,
-            "xp": 95488048
+            "level": 1819,
+            "xp": 96984065
           },
           "attack": {
-            "rank": 15,
+            "rank": 16,
             "level": 90,
-            "xp": 5711305
+            "xp": 5854058
           },
           "defence": {
             "rank": 4,
             "level": 96,
-            "xp": 9794033
+            "xp": 9936786
           },
           "strength": {
             "rank": 20,
             "level": 96,
-            "xp": 9856958
+            "xp": 10023128
           },
           "hitpoints": {
             "rank": 1,
@@ -3243,7 +3243,7 @@
           "ranged": {
             "rank": 12,
             "level": 97,
-            "xp": 10948630
+            "xp": 10966329
           },
           "prayer": {
             "rank": 10,
@@ -3268,7 +3268,7 @@
           "fletching": {
             "rank": 9,
             "level": 74,
-            "xp": 1148196
+            "xp": 1153281
           },
           "fishing": {
             "rank": 2,
@@ -3283,12 +3283,12 @@
           "crafting": {
             "rank": 11,
             "level": 73,
-            "xp": 1011352
+            "xp": 1012852
           },
           "smithing": {
             "rank": 8,
-            "level": 70,
-            "xp": 778831
+            "level": 72,
+            "xp": 908467
           },
           "mining": {
             "rank": 6,
@@ -3298,7 +3298,7 @@
           "herblore": {
             "rank": 2,
             "level": 90,
-            "xp": 5514348
+            "xp": 5668428
           },
           "agility": {
             "rank": 3,
@@ -3313,15 +3313,15 @@
           "slayer": {
             "rank": 1,
             "level": 95,
-            "xp": 8777157
+            "xp": 9474858
           },
           "farming": {
             "rank": 2,
-            "level": 80,
-            "xp": 2179485
+            "level": 81,
+            "xp": 2218125
           },
           "runecraft": {
-            "rank": 4,
+            "rank": 5,
             "level": 64,
             "xp": 446730
           },
@@ -3349,25 +3349,25 @@
       "captain": false,
       "hiscore": {
         "overallRank": 15,
-        "totalLevel": 1498,
-        "totalXp": 68104309,
+        "totalLevel": 1499,
+        "totalXp": 68592266,
         "combatScore": 644,
         "combatLevel": 116,
         "skills": {
           "overall": {
             "rank": 15,
-            "level": 1498,
-            "xp": 68104309
+            "level": 1499,
+            "xp": 68592266
           },
           "attack": {
             "rank": 21,
             "level": 86,
-            "xp": 3768945
+            "xp": 3875239
           },
           "defence": {
-            "rank": 29,
+            "rank": 28,
             "level": 88,
-            "xp": 4492247
+            "xp": 4536194
           },
           "strength": {
             "rank": 8,
@@ -3380,9 +3380,9 @@
             "xp": 13034523
           },
           "ranged": {
-            "rank": 14,
+            "rank": 13,
             "level": 96,
-            "xp": 10287837
+            "xp": 10602123
           },
           "prayer": {
             "rank": 25,
@@ -3401,13 +3401,13 @@
           },
           "woodcutting": {
             "rank": 10,
-            "level": 60,
-            "xp": 292237
+            "level": 61,
+            "xp": 305362
           },
           "fletching": {
-            "rank": 3,
+            "rank": 2,
             "level": 86,
-            "xp": 3674871
+            "xp": 3682371
           },
           "fishing": {
             "rank": 15,
@@ -3432,7 +3432,7 @@
           "mining": {
             "rank": 12,
             "level": 61,
-            "xp": 323227
+            "xp": 325912
           },
           "herblore": {
             "rank": 18,
@@ -3442,7 +3442,7 @@
           "agility": {
             "rank": 25,
             "level": 70,
-            "xp": 794637
+            "xp": 794667
           },
           "thieving": {
             "rank": 18,
@@ -3472,7 +3472,7 @@
           "construction": {
             "rank": 1,
             "level": 68,
-            "xp": 625530
+            "xp": 625620
           }
         }
       }
@@ -3488,18 +3488,18 @@
       "captain": true,
       "hiscore": {
         "overallRank": 22,
-        "totalLevel": 1318,
-        "totalXp": 71429733,
-        "combatScore": 653,
+        "totalLevel": 1319,
+        "totalXp": 71625435,
+        "combatScore": 654,
         "combatLevel": 120,
         "skills": {
           "overall": {
             "rank": 22,
-            "level": 1318,
-            "xp": 71429733
+            "level": 1319,
+            "xp": 71625435
           },
           "attack": {
-            "rank": 9,
+            "rank": 10,
             "level": 92,
             "xp": 6836835
           },
@@ -3520,8 +3520,8 @@
           },
           "ranged": {
             "rank": 22,
-            "level": 92,
-            "xp": 7082436
+            "level": 93,
+            "xp": 7278138
           },
           "prayer": {
             "rank": 16,
@@ -3569,7 +3569,7 @@
             "xp": 375
           },
           "mining": {
-            "rank": 24,
+            "rank": 25,
             "level": 35,
             "xp": 22620
           },
@@ -3627,25 +3627,25 @@
       "captain": false,
       "hiscore": {
         "overallRank": 24,
-        "totalLevel": 1311,
-        "totalXp": 65085555,
-        "combatScore": 645,
+        "totalLevel": 1312,
+        "totalXp": 65324937,
+        "combatScore": 646,
         "combatLevel": 117,
         "skills": {
           "overall": {
             "rank": 24,
-            "level": 1311,
-            "xp": 65085555
+            "level": 1312,
+            "xp": 65324937
           },
           "attack": {
-            "rank": 17,
+            "rank": 18,
             "level": 90,
             "xp": 5427971
           },
           "defence": {
             "rank": 14,
             "level": 91,
-            "xp": 6422872
+            "xp": 6425524
           },
           "strength": {
             "rank": 18,
@@ -3659,8 +3659,8 @@
           },
           "ranged": {
             "rank": 23,
-            "level": 92,
-            "xp": 7018248
+            "level": 93,
+            "xp": 7254978
           },
           "prayer": {
             "rank": 29,
@@ -3766,30 +3766,30 @@
       "captain": false,
       "hiscore": {
         "overallRank": 27,
-        "totalLevel": 1258,
-        "totalXp": 67467146,
-        "combatScore": 649,
-        "combatLevel": 118,
+        "totalLevel": 1261,
+        "totalXp": 68414466,
+        "combatScore": 651,
+        "combatLevel": 119,
         "skills": {
           "overall": {
             "rank": 27,
-            "level": 1258,
-            "xp": 67467146
+            "level": 1261,
+            "xp": 68414466
           },
           "attack": {
-            "rank": 13,
-            "level": 91,
-            "xp": 5999552
+            "rank": 11,
+            "level": 92,
+            "xp": 6524847
           },
           "defence": {
             "rank": 6,
             "level": 96,
-            "xp": 9719447
+            "xp": 9724256
           },
           "strength": {
             "rank": 24,
             "level": 95,
-            "xp": 8933480
+            "xp": 8934344
           },
           "hitpoints": {
             "rank": 21,
@@ -3797,9 +3797,9 @@
             "xp": 13034462
           },
           "ranged": {
-            "rank": 25,
-            "level": 92,
-            "xp": 6919532
+            "rank": 24,
+            "level": 93,
+            "xp": 7216845
           },
           "prayer": {
             "rank": 15,
@@ -3819,7 +3819,7 @@
           "woodcutting": {
             "rank": 29,
             "level": 41,
-            "xp": 45187
+            "xp": 45193
           },
           "fletching": {
             "rank": -1,
@@ -3847,9 +3847,9 @@
             "xp": 300
           },
           "mining": {
-            "rank": 25,
-            "level": 34,
-            "xp": 20370
+            "rank": 24,
+            "level": 35,
+            "xp": 23085
           },
           "herblore": {
             "rank": 20,
@@ -3859,7 +3859,7 @@
           "agility": {
             "rank": 14,
             "level": 78,
-            "xp": 1661479
+            "xp": 1662372
           },
           "thieving": {
             "rank": 24,
@@ -3869,7 +3869,7 @@
           "slayer": {
             "rank": 3,
             "level": 90,
-            "xp": 5437851
+            "xp": 5553246
           },
           "farming": {
             "rank": -1,
@@ -3889,7 +3889,7 @@
           "construction": {
             "rank": 29,
             "level": 20,
-            "xp": 4680
+            "xp": 4710
           }
         }
       }
@@ -3906,14 +3906,14 @@
       "hiscore": {
         "overallRank": 9,
         "totalLevel": 1716,
-        "totalXp": 83426189,
+        "totalXp": 83446942,
         "combatScore": 649,
         "combatLevel": 118,
         "skills": {
           "overall": {
             "rank": 9,
             "level": 1716,
-            "xp": 83426189
+            "xp": 83446942
           },
           "attack": {
             "rank": 19,
@@ -3921,9 +3921,9 @@
             "xp": 5364553
           },
           "defence": {
-            "rank": 9,
+            "rank": 10,
             "level": 94,
-            "xp": 8213868
+            "xp": 8216148
           },
           "strength": {
             "rank": 17,
@@ -3936,7 +3936,7 @@
             "xp": 13034617
           },
           "ranged": {
-            "rank": 20,
+            "rank": 21,
             "level": 93,
             "xp": 7677083
           },
@@ -3978,12 +3978,12 @@
           "crafting": {
             "rank": 12,
             "level": 67,
-            "xp": 575358
+            "xp": 576108
           },
           "smithing": {
             "rank": 12,
             "level": 65,
-            "xp": 464512
+            "xp": 465075
           },
           "mining": {
             "rank": 21,
@@ -4003,7 +4003,7 @@
           "thieving": {
             "rank": 1,
             "level": 96,
-            "xp": 10302718
+            "xp": 10317718
           },
           "slayer": {
             "rank": 17,
@@ -4013,7 +4013,7 @@
           "farming": {
             "rank": 11,
             "level": 54,
-            "xp": 156030
+            "xp": 158190
           },
           "runecraft": {
             "rank": 22,
@@ -4045,17 +4045,17 @@
       "hiscore": {
         "overallRank": 7,
         "totalLevel": 1730,
-        "totalXp": 74124452,
+        "totalXp": 74308245,
         "combatScore": 638,
         "combatLevel": 116,
         "skills": {
           "overall": {
             "rank": 7,
             "level": 1730,
-            "xp": 74124452
+            "xp": 74308245
           },
           "attack": {
-            "rank": 12,
+            "rank": 14,
             "level": 91,
             "xp": 6108976
           },
@@ -4077,7 +4077,7 @@
           "ranged": {
             "rank": 31,
             "level": 88,
-            "xp": 4494498
+            "xp": 4648389
           },
           "prayer": {
             "rank": 14,
@@ -4117,12 +4117,12 @@
           "crafting": {
             "rank": 5,
             "level": 86,
-            "xp": 3809446
+            "xp": 3820396
           },
           "smithing": {
             "rank": 4,
             "level": 80,
-            "xp": 2069004
+            "xp": 2069949
           },
           "mining": {
             "rank": 5,
@@ -4137,7 +4137,7 @@
           "agility": {
             "rank": 7,
             "level": 83,
-            "xp": 2933487
+            "xp": 2933494
           },
           "thieving": {
             "rank": 4,
@@ -4145,9 +4145,9 @@
             "xp": 2844970
           },
           "slayer": {
-            "rank": 13,
+            "rank": 12,
             "level": 80,
-            "xp": 2050512
+            "xp": 2068512
           },
           "farming": {
             "rank": 3,
