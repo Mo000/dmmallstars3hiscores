@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-18T18:59:01.541Z",
+  "fetchedAt": "2026-10-18T21:20:37.100Z",
   "source": "https://secure.runescape.com/m=hiscore_oldschool_tournament/index_lite.ws",
   "players": [
     {
@@ -157,7 +157,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -176,7 +176,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -195,7 +195,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -372,7 +372,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -410,7 +410,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -429,7 +429,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -467,7 +467,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -486,7 +486,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -499,133 +499,13 @@
       "accent": "#f5c542",
       "captain": false,
       "hiscore": {
-        "overallRank": 4,
-        "totalLevel": 1339,
-        "totalXp": 68824629,
-        "combatScore": 658,
-        "combatLevel": 119,
-        "skills": {
-          "overall": {
-            "rank": 4,
-            "level": 1339,
-            "xp": 68824629
-          },
-          "attack": {
-            "rank": 4,
-            "level": 93,
-            "xp": 7200021
-          },
-          "defence": {
-            "rank": 4,
-            "level": 95,
-            "xp": 8779970
-          },
-          "strength": {
-            "rank": 4,
-            "level": 95,
-            "xp": 8873667
-          },
-          "hitpoints": {
-            "rank": 3,
-            "level": 99,
-            "xp": 13034810
-          },
-          "ranged": {
-            "rank": 4,
-            "level": 97,
-            "xp": 10696074
-          },
-          "prayer": {
-            "rank": 1,
-            "level": 80,
-            "xp": 2056552
-          },
-          "magic": {
-            "rank": 1,
-            "level": 99,
-            "xp": 13035359
-          },
-          "cooking": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "woodcutting": {
-            "rank": 3,
-            "level": 46,
-            "xp": 70500
-          },
-          "fletching": {
-            "rank": 3,
-            "level": 56,
-            "xp": 199792
-          },
-          "fishing": {
-            "rank": 3,
-            "level": 55,
-            "xp": 182625
-          },
-          "firemaking": {
-            "rank": 3,
-            "level": 50,
-            "xp": 102300
-          },
-          "crafting": {
-            "rank": 4,
-            "level": 50,
-            "xp": 107343
-          },
-          "smithing": {
-            "rank": 4,
-            "level": 5,
-            "xp": 450
-          },
-          "mining": {
-            "rank": 3,
-            "level": 60,
-            "xp": 286905
-          },
-          "herblore": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "agility": {
-            "rank": 2,
-            "level": 81,
-            "xp": 2368185
-          },
-          "thieving": {
-            "rank": 3,
-            "level": 69,
-            "xp": 691525
-          },
-          "slayer": {
-            "rank": 4,
-            "level": 71,
-            "xp": 832878
-          },
-          "farming": {
-            "rank": -1,
-            "level": 1,
-            "xp": 0
-          },
-          "runecraft": {
-            "rank": 3,
-            "level": 56,
-            "xp": 201090
-          },
-          "hunter": {
-            "rank": 4,
-            "level": 48,
-            "xp": 90468
-          },
-          "construction": {
-            "rank": 4,
-            "level": 30,
-            "xp": 14115
-          }
-        }
+        "overallRank": -1,
+        "totalLevel": -1,
+        "totalXp": -1,
+        "combatScore": -1,
+        "combatLevel": -1,
+        "skills": {},
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -644,7 +524,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -663,7 +543,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -701,7 +581,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -720,7 +600,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -739,7 +619,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -897,7 +777,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -973,7 +853,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -992,7 +872,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
@@ -1011,7 +891,7 @@
         "combatScore": -1,
         "combatLevel": -1,
         "skills": {},
-        "error": "Hiscores returned 404"
+        "error": "The operation was aborted due to timeout"
       }
     },
     {
